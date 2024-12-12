@@ -1,0 +1,2198 @@
+<span id="productTitle" class="a-size-large product-title-word-break">        Brewers Yeast Powder for Lactation to Boost Mother's Milk - Kate Naturals. Brewer's Yeast Powder for Lactation Cookies. Gluten Free &amp; Non-GMO Lactation Supplement. Edible for Dogs &amp; Ducks (12oz)       </span>
+
+
+
+<img src="https://m.media-amazon.com/images/I/71dJf3S5HUL._AC_SX679_.jpg" class="a-dynamic-image" id="" style="max-height: 441px; max-width: 573px;" data-old-hires="https://m.media-amazon.com/images/I/71dJf3S5HUL._AC_SL1500_.jpg" data-a-manual-replacement="true">
+
+
+<div class="a-section a-spacing-none aok-align-center aok-relative"> <span class="aok-offscreen">   $8.99 with 10 percent savings    </span>          <span aria-hidden="true" class="a-size-large a-color-price savingPriceOverride aok-align-center reinventPriceSavingsPercentageMargin savingsPercentage">-10%</span>           <span class="a-price aok-align-center reinventPricePriceToPayMargin priceToPay" data-a-size="xl" data-a-color="base"><span class="a-offscreen"> </span><span aria-hidden="true"><span class="a-price-symbol">$</span><span class="a-price-whole">8<span class="a-price-decimal">.</span></span><span class="a-price-fraction">99</span></span></span>              <span id="taxInclusiveMessage" class="a-size-mini a-color-base aok-align-center aok-nowrap">  </span>             <span class="aok-relative"><span class="a-size-mini aok-offscreen"> $0.75 per Ounce </span><span aria-hidden="true" class="a-size-mini a-color-base aok-align-center pricePerUnit">(<span class="a-price a-text-price" data-a-size="mini" data-a-color="base"><span class="a-offscreen">$0.75</span><span aria-hidden="true">$0.75</span></span> / Ounce)</span></span>   </div>
+
+<tbody><tr class="a-spacing-small po-brand"> <td class="a-span3">     <span class="a-size-base a-text-bold">Brand</span>   </td> <td class="a-span9">    <span class="a-size-base po-break-word">Kate Naturals</span>   </td> </tr>  <tr class="a-spacing-small po-flavor"> <td class="a-span3">     <span class="a-size-base a-text-bold">Flavor</span>   </td> <td class="a-span9">    <span class="a-size-base po-break-word">Unflavored</span>   </td> </tr>  <tr class="a-spacing-small po-item_form"> <td class="a-span3">     <span class="a-size-base a-text-bold">Item Form</span>   </td> <td class="a-span9">    <span class="a-size-base po-break-word">Powder</span>   </td> </tr>  <tr class="a-spacing-small po-item_weight"> <td class="a-span3">     <span class="a-size-base a-text-bold">Item Weight</span>   </td> <td class="a-span9">    <span class="a-size-base po-break-word">12 Ounces</span>   </td> </tr>  <tr class="a-spacing-small po-target_species"> <td class="a-span3">     <span class="a-size-base a-text-bold">Target Species</span>   </td> <td class="a-span9">    <span class="a-size-base po-break-word">Duck</span>   </td> </tr>   </tbody>
+
+<div id="aplus" class="a-section a-spacing-large bucket"> <hr noshade="true" size="1" class="bucketDivider">
+         <h2>Product Description</h2>            <script type="application/javascript">
+    function logShoppableMetrics(moduleName, showsAddToCart) {
+        if (window.ue && window.ue.count) {
+            window.ue.count("aplus:shoppable:" + moduleName + ":addToCart", showsAddToCart ? 1 : 0);
+        }
+    }
+</script>
+
+                          <div class="aplus-v2 desktop celwidget" cel_widget_id="aplus" data-csa-c-id="cjx6hx-t9v82u-ehpcyq-eu63f7" data-cel-widget="aplus">
+        <style type="text/css">
+
+.aplus-v2 .premium-aplus-module-1 .aplus-module-section {
+    width: 50%;
+    vertical-align: middle;
+}
+
+.aplus-v2 .premium-aplus-module-1 .aplus-module-1-topic {
+    padding-bottom: 10px;
+}
+
+.aplus-v2 .premium-aplus-module-1 .aplus-module-1-heading {
+    padding-bottom: 20px;
+}
+
+.aplus-v2 .premium-aplus-module-1 .aplus-module-1-description {
+    line-height: 1.6em;
+}
+
+.aplus-v2 .premium-aplus-module-1 .aplus-module-section.aplus-image-section {
+    vertical-align: middle;
+}
+
+.aplus-v2 .premium-aplus-module-1 .aplus-module-section.aplus-text-section-left,
+.aplus-v2 .premium-aplus-module-1 .aplus-module-section.aplus-text-section-right {
+    padding: 0 40px;
+}
+
+</style>      <style type="text/css">
+
+.aplus-v2 .premium-aplus-module-3 .premium-module-3-heading {
+    padding-bottom: 40px;
+}
+
+.aplus-v2 .premium-aplus-module-3 .premium-aplus-four-column {
+     text-align: center;
+ }
+
+.aplus-v2 .premium-aplus-module-3 .premium-aplus-four-column {
+    text-align: inherit;
+}
+
+.aplus-v2 .premium-aplus-module-3 .premium-aplus-column {
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+}
+
+.aplus-v2 .premium-aplus-module-3 .premium-aplus-column {
+    padding: 0 20px;
+}
+
+.aplus-v2 .premium-aplus-module-3 .column-heading {
+    padding-top: 20px;
+}
+
+.aplus-v2 .premium-aplus-module-3 .column-description {
+    padding-top: 10px;
+}
+
+</style>
+      <style type="text/css">
+
+.aplus-v2 .premium-aplus-module-2 .premium-background-wrapper {
+    position: relative;
+}
+
+.aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    top: 0;
+}
+
+.aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.right {
+    left: 50%;
+}
+
+html[dir="rtl"] .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.right {
+    left: auto;
+    right: 50%;
+}
+
+.aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.secondary-color {
+    color: #fff;
+}
+
+.aplus-v2 .premium-aplus-module-2 .premium-intro-background {
+    padding: 20px;
+}
+
+.aplus-v2 .premium-aplus-module-2 .aplus-module-2-topic {
+    padding-bottom: 10px;
+}
+
+.aplus-v2 .premium-aplus-module-2 .aplus-module-2-heading {
+    padding-bottom: 20px;
+}
+
+.aplus-v2 .premium-aplus-module-2 .aplus-module-2-description {
+    line-height: 1.5em;
+}
+
+.aplus-v2 .premium-aplus-module-2 .premium-intro-background.white-background {
+    background: rgba(255,255,255,0.5);
+}
+
+.aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background {
+    background: rgba(0,0,0,0.5);
+}
+
+.aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background,
+.aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background h1,
+.aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background h5,
+.aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background ol,
+.aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background ul,
+.aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background ol .a-list-item,
+.aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background ul .a-list-item {
+  color: #fff;
+}
+
+.aplus-v2 .premium-aplus-module-2 .premium-intro-content-container {
+    display: table;
+    height: 100%;
+}
+
+.aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.left .premium-intro-content-container {
+    padding-left: 40px;
+}
+
+html[dir="rtl"] .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.left .premium-intro-content-container {
+	padding-left: 0px;
+	padding-right: 40px;
+}
+
+.aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.right .premium-intro-content-container {
+    padding-right: 40px;
+}
+
+html[dir="rtl"] .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.right .premium-intro-content-container {
+    padding-right: 0px;
+    padding-left: 40px;
+}
+
+.aplus-v2 .premium-aplus-module-2 .premium-intro-content-column {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+</style>
+       <script type="text/javascript">(function(f) {var _np=(window.P._namespace("PremiumAplusModule"));if(_np.guardFatal){_np.guardFatal(f)(_np);}else{f(_np);}}(function(P) {
+P.now('premium-module-5-comparison-table-scroller').execute(function(init){
+    if (init) {
+        return;
+    }
+    P.register('premium-module-5-comparison-table-scroller', function(){
+        return function() {
+            P.when('jQuery', 'a-popover', 'A', 'ready').execute(function($, popover, A) {
+                function initCompTable(module) {
+                    /**
+                    * Premium comparison table: popover trigger module
+                    */
+                    var comparisonName = $(module).data('comparison-name');
+                    (function() {
+                        var $additionalInfo = $('.aplus-v2 .aplus-popover-trigger');
+                        $additionalInfo.each(function(i, trigger) {
+                            return popover.create(trigger, $(trigger).data());
+                        });
+                        $additionalInfo.hover(
+                            function() {
+                                $(this).focus();
+                            }
+                        );
+                    })();
+                    /**
+                    * Premium comparison table: adjust column width module
+                    */
+                    (function() {
+                        var VISIBLE_COLUMNS = 4.2;  /* How many visible columns on load */
+                        var MIN_WIDTH = 230;
+                        var getWidth = function() {
+                            return $(this).outerWidth();
+                        }
+                        /* cache selectors */
+                        var
+                            $container = $('.aplus-v2 .comparison-table #'+comparisonName),
+                            $header = $('.aplus-v2 .comparison-table #'+comparisonName+' td.attribute'),
+                            $slider = $('.aplus-v2 .comparison-table #'+comparisonName+' .table-slider'),
+                            $columns = $('.aplus-v2 .comparison-table #'+comparisonName+' .aplus-data-column'),
+                            $activeColumn = $('.aplus-v2 .comparison-table #'+comparisonName+' .aplus-data-column.active.active-item');
+
+                        /* Formula for determining desired column width */
+
+                        var calculatedColumnWidth = Math.floor(
+                            ($container.innerWidth() - $header.innerWidth()) / VISIBLE_COLUMNS
+                        );
+
+                        var childWidths = $activeColumn.map(getWidth).get();
+                        var maxChildWidth = Math.max(MIN_WIDTH, Math.max.apply(Math, childWidths));
+                        var minColumnWidth = $columns.innerWidth();
+                        var calculatedPadding = $header.innerWidth() + maxChildWidth;
+
+                        /* set the min-width of each column to the calulated width or minWidth */
+                        $columns.css(
+                            'min-width',
+                            Math.max(MIN_WIDTH, (calculatedColumnWidth < minColumnWidth
+                                ? calculatedColumnWidth
+                                : minColumnWidth))
+                        );
+                        $activeColumn.css('width', maxChildWidth);
+
+                        /* AUI RTL script automatically changes this to padding-right under RTL context */
+                        $slider.css('padding-left', calculatedPadding);
+
+                        /* show the component */
+                        $container.removeClass('loading');
+                    })();
+                    /**
+                    * Premium comparison table: top scroll bar
+                    */
+                    (function() {
+                        /* cache selectors */
+                        var
+                            $header = $('.aplus-v2 .comparison-table #'+comparisonName+' td.attribute'),
+                            $fixedColumn = $('.aplus-v2 .comparison-table #'+comparisonName+' td.active'),
+                            $scrollWrapperTop = $('.aplus-v2 .comparison-table #'+comparisonName+' .scroll-wrapper-top'),
+                            $scrollWrapperBottom = $('.aplus-v2 .comparison-table #'+comparisonName+' .scroll-wrapper-bottom'),
+                            $scrollWidth = $('.aplus-v2 .comparison-table #'+comparisonName+' .scroll-width'),
+                            $scrollBar = $('.aplus-v2 .comparison-table #'+comparisonName+' .scroll-bar');
+                        /* confirm fixed column exists and can add width to the total width of the scroll bar */
+                        var fixedColumnWidth = $fixedColumn.innerWidth();
+                        if ( fixedColumnWidth === null ) {
+                            fixedColumnWidth = 0;
+                        }
+                        /* set width of scrollBar */
+                        $scrollBar.css('width', $scrollWidth.innerWidth() + fixedColumnWidth + $header.innerWidth());
+                        /* connect scrolls together */
+                        $scrollWrapperTop.scroll(function() {
+                            $scrollWrapperBottom.scrollLeft($scrollWrapperTop.scrollLeft());
+                        });
+                        $scrollWrapperBottom.scroll(function() {
+                            $scrollWrapperTop.scrollLeft($scrollWrapperBottom.scrollLeft());
+                        });
+                    })();
+                }
+
+                $('.aplus-v2 .premium-aplus-module-5 .table-container').each(function(index, module) {
+                    initCompTable(module);
+                });
+            });
+        }
+    });
+});
+}));</script>       <style type="text/css">
+
+/**
+ * Premium-module 5: Comparision table - scroller
+ */
+
+.aplus-v2 .premium-aplus-module-5 h1 {
+    padding-bottom: 30px;
+}
+
+/* position column-headers relative to this table */
+.aplus-v2 .premium-aplus-module-5 .table-container {
+    position: relative;
+    opacity: 1;
+}
+
+.aplus-v2 .premium-aplus-module-5 .table-container.loading {
+    opacity: 0;
+}
+
+.aplus-v2 .premium-aplus-module-5 .table-slider {
+    overflow-x: scroll;
+    overflow-y: visible;
+    width: 100%;
+}
+
+/* left column headers are absolute positioned */
+.aplus-v2 .premium-aplus-module-5 td.attribute {
+    position: absolute;
+    width: 300px;
+    top: auto;
+    left: 0;
+}
+
+html[dir="rtl"] .aplus-v2 .premium-aplus-module-5 td.attribute {
+    right: 0px;
+    left: auto;
+}
+
+.aplus-v2 .premium-aplus-module-5 td.active-item {
+    position: absolute;
+    top: auto;
+    left: 300px;
+}
+
+html[dir="rtl"]  .premium-aplus-module-5 td.active-item {
+    left: auto;
+    right: 300px;
+}
+
+.aplus-v2 .premium-aplus-module-5 .attribute,
+.aplus-v2 .premium-aplus-module-5 .active-item,
+.aplus-v2 .premium-aplus-module-5 .description {
+    font-size: 16px;
+    font-family: arial;
+    line-height: 2.5em;
+    white-space:nowrap;
+    color: #000;
+}
+
+.aplus-v2 .premium-aplus-module-5 .attribute,
+.aplus-v2 .premium-aplus-module-5 .active-item,
+.aplus-v2 .premium-aplus-module-5 .description {
+    font-family: inherit;
+}
+
+.aplus-v2 .premium-aplus-module-5 table.a-bordered td.attribute,
+.aplus-v2 .premium-aplus-module-5 table.a-bordered td.active-item {
+    background-color: #fff;
+    z-index: 100;
+}
+
+.aplus-v2 .premium-aplus-module-5 table.a-bordered tr:nth-child(even) td.attribute,
+.aplus-v2 .premium-aplus-module-5 table.a-bordered tr:nth-child(even) td.active-item {
+    background-color: #f0f2f2;
+}
+
+.aplus-v2 .premium-aplus-module-5 table.a-bordered tr:nth-child(even):last-child td.attribute {
+    border-bottom: #f0f2f2 solid 1px;
+}
+
+/* Override AUI - the odd rows have a white background while the even ones have gray background */
+.aplus-v2 .premium-aplus-module-5 table.a-bordered tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+.aplus-v2 .premium-aplus-module-5 table.a-bordered tr:nth-child(even) {
+    background-color: #f0f2f2;
+}
+
+.aplus-v2 .premium-aplus-module-5 table.a-bordered td.attribute .comparison-metric-name {
+    outline-style: none;
+}
+
+.aplus-v2 .premium-aplus-module-5 table.a-bordered td.attribute .aplus-popover-trigger::after {
+    content: "?";
+    display: inline-block;
+    font-size: 12px;
+    position: relative;
+    bottom: 5px;
+}
+
+.aplus-v2 .premium-aplus-module-5 td.attribute.empty {
+    height: 332px;
+}
+
+.aplus-v2 .premium-aplus-module-5 .header-img {
+    padding-top: 10px;
+}
+
+/* Prevent table borders from overlapping */
+.aplus-v2 .premium-aplus-module-5 table {
+    border-collapse: separate;
+}
+
+/* Override default AUI .a-bordered table borders */
+.aplus-v2 .premium-aplus-module-5 table.a-bordered td,
+.aplus-v2 .premium-aplus-module-5 table.a-bordered th,
+.aplus-v2 .premium-aplus-module-5 table.a-bordered {
+    border-width: 0;
+    border-color: #eaeaea;
+    border-style: solid;
+}
+
+.aplus-v2 .premium-aplus-module-5 table.a-bordered td {
+    border-right-width: 1px;
+}
+
+.aplus-v2 .premium-aplus-module-5 table.a-bordered td:last-child {
+    border-right-width: 0;
+}
+
+html[dir="rtl"] .aplus-v2 .premium-aplus-module-5 table.a-bordered td:last-child {
+    border-right-width: 1px;
+}
+
+/* Active column should be surrounded in darker border. */
+.aplus-v2 .premium-aplus-module-5 table.a-bordered td.active {
+    border-color: #767676;
+    border-right-width: 1px;
+    border-left-width: 1px;
+}
+
+/* Top Active column needs border-top */
+.aplus-v2 .premium-aplus-module-5 table.a-bordered tr:first-child td.active {
+    border-top-width: 1px;
+    height: 332px;
+}
+
+/* Bottom column column needs border-bottom */
+.aplus-v2 .premium-aplus-module-5 table.a-bordered tr:last-child td.active {
+    border-bottom-width: 1px;
+}
+
+/* Size the top scroller */
+.aplus-v2 .premium-aplus-module-5 .scroll-wrapper-top {
+    width: 100%;
+    height: 20px;
+    overflow-x: scroll;
+    overflow-y: visible;
+}
+
+.aplus-v2 .premium-aplus-module-5 .scroll-bar {
+    height: 1px;
+}
+
+.aplus-v2 .premium-aplus-module-5 .add-to-cart {
+    line-height: 1rem;
+    font-weight: normal;
+}
+
+.aplus-v2 .premium-aplus-module-5 .review {
+    font-size: 14px;
+}
+</style>
+      <style type="text/css">
+
+/**
+ * Premium modules global styles
+ */
+.aplus-v2.desktop {
+  max-width: 1464px;
+  min-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+/* Undo this for tech-specs because it breaks table layout */
+.aplus-v2.desktop .premium-aplus .aplus-tech-spec-table { word-break: initial; }
+
+.aplus-v2 .premium-aplus,
+.aplus-v2 .premium-aplus .aplus-h1,
+.aplus-v2 .premium-aplus .aplus-h2,
+.aplus-v2 .premium-aplus .aplus-p1,
+.aplus-v2 .premium-aplus .aplus-p2,
+.aplus-v2 .premium-aplus .aplus-p3,
+.aplus-v2 .premium-aplus .aplus-accent1,
+.aplus-v2 .premium-aplus .aplus-accent2
+{ font-family: Arial, sans-serif; }
+
+.aplus-v2 .premium-aplus,
+.aplus-v2 .premium-aplus .aplus-h1,
+.aplus-v2 .premium-aplus .aplus-h2,
+.aplus-v2 .premium-aplus .aplus-p1,
+.aplus-v2 .premium-aplus .aplus-p2,
+.aplus-v2 .premium-aplus .aplus-p3,
+.aplus-v2 .premium-aplus .aplus-accent1,
+.aplus-v2 .premium-aplus .aplus-accent2
+{ font-family: inherit; }
+
+/* type */
+.aplus-v2 .premium-aplus .aplus-h1 { font-size: 32px; line-height: 1.2em; font-weight: 500; }
+.aplus-v2 .premium-aplus .aplus-h2 { font-size: 26px; line-height: 1.25em; font-weight: 500; }
+.aplus-v2 .premium-aplus .aplus-h3 { font-size: 18px; line-height: 1.25em; font-weight: 500; }
+.aplus-v2 .premium-aplus .aplus-p1 { font-size: 20px; line-height: 1.3em; font-weight: 300; }
+.aplus-v2 .premium-aplus .aplus-p2 { font-size: 16px; line-height: 1.4em; font-weight: 300; }
+.aplus-v2 .premium-aplus .aplus-p3 { font-size: 14px; line-height: 1.4em; font-weight: 300; }
+.aplus-v2 .premium-aplus .aplus-accent1 { font-size: 16px; line-height: 1.4em; font-weight: 600; }
+.aplus-v2 .premium-aplus .aplus-accent2 { font-size: 14px; line-height: 1.4em; font-weight: 600; }
+
+/* spacing */
+.aplus-v2 .aplus-container-1 { padding: 40px; }
+.aplus-v2 .aplus-container-1-2 { padding: 40px 80px; }
+.aplus-v2 .aplus-container-2 { padding: 80px; }
+.aplus-v2 .aplus-container-3 { padding: 40px 0; }
+
+/* Display */
+.aplus-v2 .premium-aplus .aplus-display-table { display: table; }
+.aplus-v2 .premium-aplus .aplus-display-table-cell { display: table-cell; }
+.aplus-v2 .premium-aplus .aplus-display-inline-block { display: inline-block; }
+
+/* Aplus display table with min-width 1000px and fill remaining space inside parent */
+.aplus-v2.desktop .premium-aplus .aplus-display-table-width { min-width: 1000px; width: 100% }
+
+/**
+* Padding and margin for element should be 10, 20, 40, or 80 px. Considering mini 10, small 20, medium 40, large 80.
+*/
+
+</style>
+                    <div class="celwidget aplus-module premium-module-2-fullbackground-image aplus-premium" cel_widget_id="aplus-premium-module-2-fullbackground-image" data-csa-c-id="8bc3zt-10rjxl-42nlsx-eyegs1" data-cel-widget="aplus-premium-module-2-fullbackground-image">
+                             <div class="a-section a-spacing-none premium-aplus premium-aplus-module-2">                                   <div class="a-section a-spacing-none premium-background-wrapper">  <div class="a-section a-spacing-none background-image">                             <img alt="brewers yeast powder lactation supplement ducks debittered cookies gluten free brewer's milk mother" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/96f7a9ad-9abe-44e6-b6ee-bccf208b0f47.__CR0,0,1464,600_PT0_SX1464_V1___.jpg" class="" data-src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/96f7a9ad-9abe-44e6-b6ee-bccf208b0f47.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"><noscript><img alt="brewers yeast powder lactation supplement ducks debittered cookies gluten free brewer's milk mother" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/96f7a9ad-9abe-44e6-b6ee-bccf208b0f47.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"/></noscript>   </div>   </div> <div class="a-section a-text-center">                                   <p class="aplus-description aplus-container-3 aplus-p1"> Kate Naturals Brewer's Yeast Powder is the perfect powder for mothers. Use Brewer's Yeast Powder to bake lactation cookies or brownies that can help increase milk supply. Our Brewer's Yeast Powder is also edible for dogs and ducks. </p>    </div> </div>      </div>
+
+         <div class="celwidget aplus-module premium-module-1-image-text aplus-premium" cel_widget_id="aplus-premium-module-1-image-text" data-csa-c-id="xpuohx-8njoo6-gvfwdw-oknl6g" data-cel-widget="aplus-premium-module-1-image-text">
+                        <div class="a-section a-spacing-none premium-aplus premium-aplus-module-1 aplus-container-1"> <div class="a-section a-spacing-none aplus-display-table">  <div class="a-section a-spacing-none aplus-module-section aplus-display-table-cell aplus-text-section-left">                                                                      <h1 class="aplus-h1 aplus-module-1-heading a-text-bold"> Gluten-Free and Non-GMO </h1>                                      <p class="aplus-p2 aplus-module-1-description"> Brewer's Yeast Powder is Gluten-free, Non-GMO, unflavored, and unsweetened. Brewer's Yeast Powder contains B vitamins and protein.  Powdered brewers yeast can also be fed to poultry as a tonic to improve egg production. It can also strengthen ducks' feet and legs and help with the cat and dog's digestive system. This bag contains 100% Brewer's Yeast Powder for lactation with no fillers. </p>    </div>  <div class="a-section a-spacing-none aplus-module-section aplus-display-table-cell aplus-image-section">                             <img alt="tea baking nutritional snacks support dry breastfeeding protein drink mix active flakes pills " src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/79b06e86-e222-467c-9587-df55b4a81aeb.__CR0,0,800,600_PT0_SX800_V1___.jpg" class="" data-src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/79b06e86-e222-467c-9587-df55b4a81aeb.__CR0,0,800,600_PT0_SX800_V1___.jpg"><noscript><img alt="tea baking nutritional snacks support dry breastfeeding protein drink mix active flakes pills " src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/79b06e86-e222-467c-9587-df55b4a81aeb.__CR0,0,800,600_PT0_SX800_V1___.jpg"/></noscript>   </div>  </div> </div>     </div>
+
+         <div class="celwidget aplus-module premium-module-1-image-text aplus-premium" cel_widget_id="aplus-premium-module-1-image-text" data-csa-c-id="kgg90j-92wc64-hun6fm-djvezm" data-cel-widget="aplus-premium-module-1-image-text">
+                        <div class="a-section a-spacing-none premium-aplus premium-aplus-module-1 aplus-container-1"> <div class="a-section a-spacing-none aplus-display-table">  <div class="a-section a-spacing-none aplus-module-section aplus-display-table-cell aplus-image-section">                             <img alt="woman kissing baby" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/def9f242-2b08-439b-8101-6c513df48de9.__CR0,0,800,600_PT0_SX800_V1___.jpg" class="" data-src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/def9f242-2b08-439b-8101-6c513df48de9.__CR0,0,800,600_PT0_SX800_V1___.jpg"><noscript><img alt="woman kissing baby" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/def9f242-2b08-439b-8101-6c513df48de9.__CR0,0,800,600_PT0_SX800_V1___.jpg"/></noscript>   </div>  <div class="a-section a-spacing-none aplus-module-section aplus-display-table-cell aplus-text-section-right">                                                                      <h1 class="aplus-h1 aplus-module-1-heading a-text-bold"> Versatile Powder </h1>                                      <p class="aplus-p2 aplus-module-1-description"> Brewer's Yeast Powder, also known as beer yeast, is a nutritional supplement that helps increase the amount of breast milk produced by nursing mothers and can be a substitute for fresh baker's yeast. Debittered brewer's yeast lactation cookies are lactation supplements made with brewer's yeast and other natural ingredients. These cookies make it easier for mothers to produce breast milk. Fresh yeast can be eaten as often as needed or even daily to help boost breastmilk production. </p>    </div>  </div> </div>     </div>
+
+         <div class="celwidget aplus-module premium-module-3-four-column-images aplus-premium" cel_widget_id="aplus-premium-module-3-four-column-images" data-csa-c-id="k51m6n-86hirb-z3eboo-n3huhr" data-cel-widget="aplus-premium-module-3-four-column-images">
+                    <div class="a-section a-spacing-none premium-aplus premium-aplus-module-3 aplus-container-1">                                       <h1 class="a-text-center premium-module-3-heading aplus-h1 a-text-bold"> Promotes Breast Milk Production </h1>    <div class="a-section a-spacing-none premium-aplus-four-column"> <div class="a-section a-spacing-none premium-aplus-column"> <div class="a-section a-spacing-none {'column-image'}">                             <img alt="lactation cookies" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/a5569575-e2bb-431c-845b-87f0ce962525.__CR0,0,300,225_PT0_SX300_V1___.jpg" class="" data-src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/a5569575-e2bb-431c-845b-87f0ce962525.__CR0,0,300,225_PT0_SX300_V1___.jpg"><noscript><img alt="lactation cookies" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/a5569575-e2bb-431c-845b-87f0ce962525.__CR0,0,300,225_PT0_SX300_V1___.jpg"/></noscript>   </div> <div class="a-section a-spacing-none column-heading">                                        <h1 class="aplus-h3 a-text-bold"> Lactation Cookies </h1>    </div> <div class="a-section a-spacing-none column-description">                                   <p class="aplus-p3"> Simply add 2 teaspoons to your favorite cookie recipe to benefit increase lactation production. </p>    </div> </div><div class="a-section a-spacing-none premium-aplus-column"> <div class="a-section a-spacing-none {'column-image'}">                             <img alt="lactation smoothie" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/f58f1bf9-559c-4a53-873a-9464fa485f3b.__CR0,0,300,225_PT0_SX300_V1___.jpg" class="" data-src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/f58f1bf9-559c-4a53-873a-9464fa485f3b.__CR0,0,300,225_PT0_SX300_V1___.jpg"><noscript><img alt="lactation smoothie" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/f58f1bf9-559c-4a53-873a-9464fa485f3b.__CR0,0,300,225_PT0_SX300_V1___.jpg"/></noscript>   </div> <div class="a-section a-spacing-none column-heading">                                        <h1 class="aplus-h3 a-text-bold"> Lactation Smoothie </h1>    </div> <div class="a-section a-spacing-none column-description">                                   <p class="aplus-p3"> Add in Brewer's Yeast to your favorite smoothie recipes to create lactation smoothies to help with production. </p>    </div> </div><div class="a-section a-spacing-none premium-aplus-column"> <div class="a-section a-spacing-none {'column-image'}">                             <img alt="milk supply" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/745c91b3-c00c-4475-96bb-1fcbc891cac4.__CR0,0,300,225_PT0_SX300_V1___.jpg" class="" data-src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/745c91b3-c00c-4475-96bb-1fcbc891cac4.__CR0,0,300,225_PT0_SX300_V1___.jpg"><noscript><img alt="milk supply" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/745c91b3-c00c-4475-96bb-1fcbc891cac4.__CR0,0,300,225_PT0_SX300_V1___.jpg"/></noscript>   </div> <div class="a-section a-spacing-none column-heading">                                        <h1 class="aplus-h3 a-text-bold"> Increase Breast Milk Supply </h1>    </div> <div class="a-section a-spacing-none column-description">                                   <p class="aplus-p3"> A serving a day can help increase breast milk supply. </p>    </div> </div><div class="a-section a-spacing-none premium-aplus-column"> <div class="a-section a-spacing-none {'column-image'}">                             <img alt="baby with mother" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/19d1187d-8502-457f-92aa-54e23bace569.__CR0,0,300,225_PT0_SX300_V1___.jpg" class="" data-src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/19d1187d-8502-457f-92aa-54e23bace569.__CR0,0,300,225_PT0_SX300_V1___.jpg"><noscript><img alt="baby with mother" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/19d1187d-8502-457f-92aa-54e23bace569.__CR0,0,300,225_PT0_SX300_V1___.jpg"/></noscript>   </div> <div class="a-section a-spacing-none column-heading">                                        <h1 class="aplus-h3 a-text-bold"> Nursing Mothers </h1>    </div> <div class="a-section a-spacing-none column-description">                                   <p class="aplus-p3"> Brewer's Yeast Powder help nursing mothers produce more milk. </p>    </div> </div> </div> </div>     </div>
+
+         <div class="celwidget aplus-module premium-module-1-image-text aplus-premium" cel_widget_id="aplus-premium-module-1-image-text" data-csa-c-id="a4qt5h-st7vtq-2i1nxp-dvuuko" data-cel-widget="aplus-premium-module-1-image-text">
+                        <div class="a-section a-spacing-none premium-aplus premium-aplus-module-1 aplus-container-1"> <div class="a-section a-spacing-none aplus-display-table">  <div class="a-section a-spacing-none aplus-module-section aplus-display-table-cell aplus-image-section">                             <img alt="about kate naturals" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/1070a99f-a087-403c-8dac-3fc49452e89d.__CR0,0,800,600_PT0_SX800_V1___.jpg" class="" data-src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/1070a99f-a087-403c-8dac-3fc49452e89d.__CR0,0,800,600_PT0_SX800_V1___.jpg"><noscript><img alt="about kate naturals" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/1070a99f-a087-403c-8dac-3fc49452e89d.__CR0,0,800,600_PT0_SX800_V1___.jpg"/></noscript>   </div>  <div class="a-section a-spacing-none aplus-module-section aplus-display-table-cell aplus-text-section-right">                                                                      <h1 class="aplus-h1 aplus-module-1-heading a-text-bold"> About Us </h1>                                      <p class="aplus-p2 aplus-module-1-description"> Our facility is located in California. We comply with the highest manufacturing standards to ensure that all of our products are top quality. Kate uses natural ingredients in her products without the harmful chemicals that damage our well-being and our environment. Her motto is that if she cannot pronounce the ingredient, she won't use it in her products. </p>    </div>  </div> </div>     </div>
+
+         <div class="celwidget aplus-module premium-module-5-comparison-table-scroller aplus-premium" cel_widget_id="aplus-premium-module-5-comparison-table-scroller" data-csa-c-id="6ydq9w-5ua2kl-b7dyns-basgfh" data-cel-widget="aplus-premium-module-5-comparison-table-scroller">
+                                                                                                    <div class="premium-aplus premium-aplus-module-5 aplus-container-3 comparison-table">
+                                              <h1 class="a-text-center a-text-bold"> Other Kate Naturals Products </h1>    <div id="comparison-table-container-5" data-comparison-name="comparison-table-container-5" class="a-section a-spacing-none table-container">  <div class="table-slider scroll-wrapper-bottom" style="padding-left: 529px;">
+                <table class="a-bordered a-horizontal-stripes scroll-width">  <tbody><tr class="a-text-center">  <td class="attribute empty"></td>      <td class="aplus-data-column top-header active active-item a-text-bold" style="min-width: 230px; width: 230px;">     <a class="a-link-normal a-text-normal" title="Brewer's Yeast Powder" href="/dp/B07KNYN7F4?ref=emc_p_m_5_i_atc">                             <img alt="brewers yeast powder" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/7bcbcb72-5def-4507-8638-028245dca53d.__CR0,0,200,225_PT0_SX200_V1___.png">   <p class="attribute a-text-bold"> Brewer's Yeast Powder </p> </a>                         <form method="post" action="/cart/add-to-cart/ref=emc_p_m_5_i_atc_c"> <!-- sp:csrf --><input type="hidden" name="anti-csrftoken-a2z" value="hGiHxOp5ahRnri5HraIh0+RIQPk+53S47dqT+zFdUGJ+AAAAAGdaYBA1NzE4NDgzNy04ZjliLTRkNTItOWI3ZC0yNzBhMmM2ZTA5Mjg="><!-- sp:end-csrf -->
+            <input type="hidden" name="items[0.base][asin]" value="B07KNYN7F4"> <input type="hidden" name="items[0.base][offerListingId]" value="wTBvLuyItxWfXyCX%2F%2BR4LBmCQRiqM4hpkVys58vcWeTfROYTbgOaaHe9iLnE1Q3dswcqBoap8X6giN4HJS0WXv9hk%2B%2B9%2B8lNSkSaqWJ6fftFEG3wK6iDGj2rqnlLPFSlYxVYzhf%2F4Y6e94LIt8aiyyLYeTq3%2Fu2C12N7UFnA0LzvyNstX1gktUazQFiMmC%2B5"> <input type="hidden" name="items[0.base][quantity]" value="1"> <input type="hidden" name="clientName" value="Aplus_BuyableModules_DetailPage">     <div class="add-to-cart">
+                        <span class="a-button a-spacing-small a-button-primary a-button-icon" id="a-autoid-17"><span class="a-button-inner"><i class="a-icon a-icon-cart"></i><input class="a-button-input" type="submit" aria-labelledby="a-autoid-17-announce"><span class="a-button-text" aria-hidden="true" id="a-autoid-17-announce"> Add to Cart </span></span></span> </div>
+                  </form>       <script type="application/javascript">
+        logShoppableMetrics("premium-module-5-comparison-table-scroller", true)
+    </script>
+        </td>      <td class="aplus-data-column top-header a-text-bold" style="min-width: 230px;">     <a class="a-link-normal a-text-normal" title="Sunflower Lecithin Powder" href="/dp/B0BS4HCHPX?ref=emc_p_m_5_i_atc">                             <img alt="sunflower lecithin powder" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/d99fdfa1-f136-4b2b-946e-bce02ab9f69d.__CR0,0,200,225_PT0_SX200_V1___.png">   <p class="attribute a-text-bold"> Sunflower Lecithin Powder </p> </a>     <script type="application/javascript">
+                                                            logShoppableMetrics("premium-module-5-comparison-table-scroller", false)
+                                                        </script>
+                                                        <div class="add-to-cart">
+                                                            <span class="a-button a-button-base" id="a-autoid-18"><span class="a-button-inner"><a href="/dp/B0BS4HCHPX?ref=emc_p_m_5_i_atc" class="a-button-text" id="a-autoid-18-announce"> Buying Options </a></span></span> </div>
+                                                          </td>      <td class="aplus-data-column top-header a-text-bold" style="min-width: 230px;">     <a class="a-link-normal a-text-normal" title="Agar Agar Powder" href="/dp/B08W9BGKJ1?ref=emc_p_m_5_i_atc">                             <img alt="agar agar powder" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/7d6841b7-3a0f-4f3e-9207-7a61281b0519.__CR0,0,200,225_PT0_SX200_V1___.png">   <p class="attribute a-text-bold"> Agar Agar Powder </p> </a>                         <form method="post" action="/cart/add-to-cart/ref=emc_p_m_5_i_atc_c"> <!-- sp:csrf --><input type="hidden" name="anti-csrftoken-a2z" value="hGiHxOp5ahRnri5HraIh0+RIQPk+53S47dqT+zFdUGJ+AAAAAGdaYBA1NzE4NDgzNy04ZjliLTRkNTItOWI3ZC0yNzBhMmM2ZTA5Mjg="><!-- sp:end-csrf -->
+            <input type="hidden" name="items[0.base][asin]" value="B08W9BGKJ1"> <input type="hidden" name="items[0.base][offerListingId]" value="V5MsQxdOkY1VinLqjFj%2BTnWS9J1j0U0FtUeISrlpz0aFcYNbZI94KPAyGTzkdSb2gh2SaB9r63BDedsnTXGAP5BJD63wPC68LnF2ikv7Ys1xwG0hyagZa3VY0neGdZUAjlLJf8kpvZ4yMb1WvrMsjhW5qOKLNKk2WxBRqIU28%2FrNeqCMmTc8iLQLLjcK3UTA"> <input type="hidden" name="items[0.base][quantity]" value="1"> <input type="hidden" name="clientName" value="Aplus_BuyableModules_DetailPage">     <div class="add-to-cart">
+                        <span class="a-button a-spacing-small a-button-primary a-button-icon" id="a-autoid-19"><span class="a-button-inner"><i class="a-icon a-icon-cart"></i><input class="a-button-input" type="submit" aria-labelledby="a-autoid-19-announce"><span class="a-button-text" aria-hidden="true" id="a-autoid-19-announce"> Add to Cart </span></span></span> </div>
+                  </form>       <script type="application/javascript">
+        logShoppableMetrics("premium-module-5-comparison-table-scroller", true)
+    </script>
+        </td>      <td class="aplus-data-column top-header a-text-bold" style="min-width: 230px;">     <a class="a-link-normal a-text-normal" title="Tapioca Starch" href="/dp/B089JKX9Q8?ref=emc_p_m_5_i_atc">                             <img alt="tapioca starch powder" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/f577f992-3f56-4aa8-a917-f0b4fab454af.__CR0,0,200,225_PT0_SX200_V1___.png">   <p class="attribute a-text-bold"> Tapioca Starch </p> </a>                         <form method="post" action="/cart/add-to-cart/ref=emc_p_m_5_i_atc_c"> <!-- sp:csrf --><input type="hidden" name="anti-csrftoken-a2z" value="hGiHxOp5ahRnri5HraIh0+RIQPk+53S47dqT+zFdUGJ+AAAAAGdaYBA1NzE4NDgzNy04ZjliLTRkNTItOWI3ZC0yNzBhMmM2ZTA5Mjg="><!-- sp:end-csrf -->
+            <input type="hidden" name="items[0.base][asin]" value="B089JKX9Q8"> <input type="hidden" name="items[0.base][offerListingId]" value="THSJfG5uGh%2BnyKk8Waajaxa6crwyMAZ9oOGeIGIQKoqO7oO%2Fqtq5kdZhY8ZQ3fZ99%2BFci2e0rLb6KXUQuMMCFE40FdMDotA93733o1qpwNJY7YQVta7uTiDdAgZ1LrL39POWp2QWN%2BiO8yuVG9MgEJt%2BgHljJSsjfMEpHgKKqdp%2FN5mLBTkL%2Br9KuRfouVWd"> <input type="hidden" name="items[0.base][quantity]" value="1"> <input type="hidden" name="clientName" value="Aplus_BuyableModules_DetailPage">     <div class="add-to-cart">
+                        <span class="a-button a-spacing-small a-button-primary a-button-icon" id="a-autoid-20"><span class="a-button-inner"><i class="a-icon a-icon-cart"></i><input class="a-button-input" type="submit" aria-labelledby="a-autoid-20-announce"><span class="a-button-text" aria-hidden="true" id="a-autoid-20-announce"> Add to Cart </span></span></span> </div>
+                  </form>       <script type="application/javascript">
+        logShoppableMetrics("premium-module-5-comparison-table-scroller", true)
+    </script>
+        </td>            </tr>   <tr class="a-text-center">   <td class="a-text-left attribute a-text-bold"> <div tabindex="0" class="comparison-metric-name " data-inline-content="" data-position="triggerRight">
+                                    <span class="a-text-bold"> Customer Reviews </span> </div>
+                            </td>      <td class="aplus-data-column active active-item" style="min-width: 230px; width: 230px;">                         <style>
+    .aplus-v2 .aplus-review-right-padding {
+        padding-right: 0.1rem;
+    }
+</style>
+
+<div class="">
+         <div class="a-size-base">
+                    <i class="a-icon a-icon-star-small a-star-small-4-5 a-spacing-none"><span class="a-icon-alt">4.5 out of 5 stars</span></i> </div>
+                 <div class="a-size-small">
+                        <span class="a-size-mini a-color-base">8,616</span> </div>
+                     </div> </td>      <td class="aplus-data-column" style="min-width: 230px;">                         <style>
+    .aplus-v2 .aplus-review-right-padding {
+        padding-right: 0.1rem;
+    }
+</style>
+
+<div class="">
+         <div class="a-size-base">
+                    <i class="a-icon a-icon-star-small a-star-small-4-5 a-spacing-none"><span class="a-icon-alt">4.6 out of 5 stars</span></i> </div>
+                 <div class="a-size-small">
+                        <span class="a-size-mini a-color-base">1,857</span> </div>
+                     </div> </td>      <td class="aplus-data-column" style="min-width: 230px;">                         <style>
+    .aplus-v2 .aplus-review-right-padding {
+        padding-right: 0.1rem;
+    }
+</style>
+
+<div class="">
+         <div class="a-size-base">
+                    <i class="a-icon a-icon-star-small a-star-small-4-5 a-spacing-none"><span class="a-icon-alt">4.5 out of 5 stars</span></i> </div>
+                 <div class="a-size-small">
+                        <span class="a-size-mini a-color-base">3,190</span> </div>
+                     </div> </td>      <td class="aplus-data-column" style="min-width: 230px;">                         <style>
+    .aplus-v2 .aplus-review-right-padding {
+        padding-right: 0.1rem;
+    }
+</style>
+
+<div class="">
+         <div class="a-size-base">
+                    <i class="a-icon a-icon-star-small a-star-small-4-5 a-spacing-none"><span class="a-icon-alt">4.6 out of 5 stars</span></i> </div>
+                 <div class="a-size-small">
+                        <span class="a-size-mini a-color-base">841</span> </div>
+                     </div> </td>            </tr>   <tr class="a-text-center">   <td class="a-text-left attribute a-text-bold"> <div tabindex="0" class="comparison-metric-name " data-inline-content="" data-position="triggerRight">
+                                    <span class="a-text-bold"> Price </span> </div>
+                            </td>      <td class="aplus-data-column active active-item" style="min-width: 230px; width: 230px;">  <span class="description">
+                                                        <span class="a-price" data-a-size="medium_plus" data-a-color="base"><span class="a-offscreen">$8.99</span><span aria-hidden="true"><span class="a-price-symbol">$</span><span class="a-price-whole">8<span class="a-price-decimal">.</span></span><span class="a-price-fraction">99</span></span></span>     </span>
+                                    </td>      <td class="aplus-data-column" style="min-width: 230px;">  <span class="description">
+                                                  
+                                                        —    </span>
+                                    </td>      <td class="aplus-data-column" style="min-width: 230px;">  <span class="description">
+                                                        <span class="a-price" data-a-size="medium_plus" data-a-color="base"><span class="a-offscreen">$9.99</span><span aria-hidden="true"><span class="a-price-symbol">$</span><span class="a-price-whole">9<span class="a-price-decimal">.</span></span><span class="a-price-fraction">99</span></span></span>     </span>
+                                    </td>      <td class="aplus-data-column" style="min-width: 230px;">  <span class="description">
+                                                        <span class="a-price" data-a-size="medium_plus" data-a-color="base"><span class="a-offscreen">$9.99</span><span aria-hidden="true"><span class="a-price-symbol">$</span><span class="a-price-whole">9<span class="a-price-decimal">.</span></span><span class="a-price-fraction">99</span></span></span>     </span>
+                                    </td>            </tr>    <tr class="a-text-center">  <td class="a-text-left attribute a-text-bold"> <div tabindex="0" class="comparison-metric-name " data-inline-content="" data-position="triggerRight">
+                                    <span class="a-text-bold"> Great For </span> </div>
+                            </td>      <td class="aplus-data-column active active-item" style="min-width: 230px; width: 230px;"> <span class="description">
+                                                Breast-feeding supplement    </span>
+                                    </td>      <td class="aplus-data-column" style="min-width: 230px;"> <span class="description">
+                                                Natural Emulsifier    </span>
+                                    </td>      <td class="aplus-data-column" style="min-width: 230px;"> <span class="description">
+                                                Vegan desserts    </span>
+                                    </td>      <td class="aplus-data-column" style="min-width: 230px;"> <span class="description">
+                                                Soup &amp; Sauce Thickener    </span>
+                                    </td>            </tr>  <tr class="a-text-center">  <td class="a-text-left attribute a-text-bold"> <div tabindex="0" class="comparison-metric-name " data-inline-content="" data-position="triggerRight">
+                                    <span class="a-text-bold"> Baking </span> </div>
+                            </td>      <td class="aplus-data-column active active-item" style="min-width: 230px; width: 230px;"> <span class="description">
+                                             
+                                                    ✔       </span>
+                                    </td>      <td class="aplus-data-column" style="min-width: 230px;"> <span class="description">
+                                             
+                                                    ✔       </span>
+                                    </td>      <td class="aplus-data-column" style="min-width: 230px;"> <span class="description">
+                                             
+                                                    ✔       </span>
+                                    </td>      <td class="aplus-data-column" style="min-width: 230px;"> <span class="description">
+                                             
+                                                    ✔       </span>
+                                    </td>            </tr>  <tr class="a-text-center">  <td class="a-text-left attribute a-text-bold"> <div tabindex="0" class="comparison-metric-name " data-inline-content="" data-position="triggerRight">
+                                    <span class="a-text-bold"> Cooking </span> </div>
+                            </td>      <td class="aplus-data-column active active-item" style="min-width: 230px; width: 230px;"> <span class="description">
+                                             
+                                                    ✔       </span>
+                                    </td>      <td class="aplus-data-column" style="min-width: 230px;"> <span class="description">
+                                             
+                                                    ✔       </span>
+                                    </td>      <td class="aplus-data-column" style="min-width: 230px;"> <span class="description">
+                                             
+                                                    ✔       </span>
+                                    </td>      <td class="aplus-data-column" style="min-width: 230px;"> <span class="description">
+                                             
+                                                    ✔       </span>
+                                    </td>            </tr>  <tr class="a-text-center">  <td class="a-text-left attribute a-text-bold"> <div tabindex="0" class="comparison-metric-name " data-inline-content="" data-position="triggerRight">
+                                    <span class="a-text-bold"> Gluten Free </span> </div>
+                            </td>      <td class="aplus-data-column active active-item" style="min-width: 230px; width: 230px;"> <span class="description">
+                                             
+                                                    ✔       </span>
+                                    </td>      <td class="aplus-data-column" style="min-width: 230px;"> <span class="description">
+                                             
+                                                    ✔       </span>
+                                    </td>      <td class="aplus-data-column" style="min-width: 230px;"> <span class="description">
+                                             
+                                                    ✔       </span>
+                                    </td>      <td class="aplus-data-column" style="min-width: 230px;"> <span class="description">
+                                             
+                                                    ✔       </span>
+                                    </td>            </tr>  <tr class="a-text-center">  <td class="a-text-left attribute a-text-bold"> <div tabindex="0" class="comparison-metric-name " data-inline-content="" data-position="triggerRight">
+                                    <span class="a-text-bold"> Resealable + Long Shelf Life </span> </div>
+                            </td>      <td class="aplus-data-column active active-item" style="min-width: 230px; width: 230px;"> <span class="description">
+                                             
+                                                    ✔       </span>
+                                    </td>      <td class="aplus-data-column" style="min-width: 230px;"> <span class="description">
+                                             
+                                                    ✔       </span>
+                                    </td>      <td class="aplus-data-column" style="min-width: 230px;"> <span class="description">
+                                             
+                                                    ✔       </span>
+                                    </td>      <td class="aplus-data-column" style="min-width: 230px;"> <span class="description">
+                                             
+                                                    ✔       </span>
+                                    </td>            </tr>  </tbody></table> </div>
+        </div> </div>
+ <script type="text/javascript">(function(f) {var _np=(window.P._namespace("PremiumAplusModule"));if(_np.guardFatal){_np.guardFatal(f)(_np);}else{f(_np);}}(function(P) {
+    P.when('premium-module-5-comparison-table-scroller', 'ready').execute(function(init){ init() });
+}));</script>     </div>
+
+        </div> </div>
+
+<div id="detailBulletsWrapper_feature_div" data-feature-name="detailBullets" data-template-name="detailBullets" class="a-section feature detail-bullets-wrapper bucket" data-cel-widget="detailBulletsWrapper_feature_div"> <hr aria-hidden="true" class="a-divider-normal bucketDivider"> <h2>Product details</h2>
+    <div id="detailBullets_feature_div">
+             <ul class="a-unordered-list a-nostyle a-vertical a-spacing-none detail-bullet-list">        <li><span class="a-list-item"> <span class="a-text-bold">Is Discontinued By Manufacturer
+                                    ‏
+                                        :
+                                    ‎
+                                </span> <span>No</span> </span></li>          <li><span class="a-list-item"> <span class="a-text-bold">Package Dimensions
+                                    ‏
+                                        :
+                                    ‎
+                                </span> <span>7.91 x 6.22 x 1.94 inches; 12 ounces</span> </span></li>          <li><span class="a-list-item"> <span class="a-text-bold">Item model number
+                                    ‏
+                                        :
+                                    ‎
+                                </span> <span>Brewers Yeast Powder</span> </span></li>          <li><span class="a-list-item"> <span class="a-text-bold">Date First Available
+                                    ‏
+                                        :
+                                    ‎
+                                </span> <span>August 26, 2019</span> </span></li>                                  <li><span class="a-list-item"> <span class="a-text-bold">Manufacturer
+                                    ‏
+                                        :
+                                    ‎
+                                </span> <span>Kate Naturals</span> </span></li>          <li><span class="a-list-item"> <span class="a-text-bold">ASIN
+                                    ‏
+                                        :
+                                    ‎
+                                </span> <span>B07KNYN7F4</span> </span></li>        </ul>   </div>
+    <ul class="a-unordered-list a-nostyle a-vertical a-spacing-none detail-bullet-list">     <li><span class="a-list-item">      <span class="a-text-bold"> Best Sellers Rank: </span> #1,302 in Grocery &amp; Gourmet Food (<a href="/gp/bestsellers/grocery/ref=pd_zg_ts_grocery">See Top 100 in Grocery &amp; Gourmet Food</a>) <ul class="a-unordered-list a-nostyle a-vertical zg_hrsr">  <li><span class="a-list-item"> #1 in <a href="/gp/bestsellers/grocery/6492285011/ref=pd_zg_hrsr_grocery">Active Dry Yeasts</a></span></li>  </ul>    </span></li>    </ul> <ul class="a-unordered-list a-nostyle a-vertical a-spacing-none detail-bullet-list">  <li><span class="a-list-item"> <span class="a-text-bold"> Customer Reviews: </span>                              <div id="detailBullets_averageCustomerReviews" data-asin="B07KNYN7F4" data-ref="dpx_acr_pop_">
+                           <span class="a-declarative" data-action="acrStarsLink-click-metrics" data-csa-c-type="widget" data-csa-c-func-deps="aui-da-acrStarsLink-click-metrics" data-acrstarslink-click-metrics="{}" data-csa-c-id="yfotdz-euksko-35ewsn-n8671i">         <span id="acrPopover" class="reviewCountTextLinkedHistogram noUnderline" title="4.5 out of 5 stars">
+        <span class="a-declarative" data-action="a-popover" data-csa-c-type="widget" data-csa-c-func-deps="aui-da-a-popover" data-a-popover="{&quot;max-width&quot;:&quot;700&quot;,&quot;closeButton&quot;:&quot;true&quot;,&quot;position&quot;:&quot;triggerBottom&quot;,&quot;popoverLabel&quot;:&quot;Customer Reviews Ratings Summary&quot;,&quot;url&quot;:&quot;/gp/customer-reviews/widgets/average-customer-review/popover/ref=dpx_acr_pop_?contextId=dpx&amp;asin=B07KNYN7F4&quot;}" data-csa-c-id="vg8q50-4l6tly-nt50tl-33gl9a"> <a href="javascript:void(0)" role="button" class="a-popover-trigger a-declarative">    <span class="a-size-base a-color-base"> 4.5 </span>            <i class="a-icon a-icon-star a-star-4-5 cm-cr-review-stars-spacing-big"><span class="a-icon-alt">4.5 out of 5 stars</span></i>   <i class="a-icon a-icon-popover"></i></a> </span>   <span class="a-letter-space"></span>  </span>
+
+       </span> <span class="a-letter-space"></span>             <span class="a-declarative" data-action="acrLink-click-metrics" data-csa-c-type="widget" data-csa-c-func-deps="aui-da-acrLink-click-metrics" data-acrlink-click-metrics="{}" data-csa-c-id="tdaflc-k0n5nb-y5wrlh-fj5cl3"> <a id="acrCustomerReviewLink" class="a-link-normal" href="#customerReviews">    <span id="acrCustomerReviewText" class="a-size-base">8,616 ratings</span>   </a> </span> <script type="text/javascript">
+                    
+                    var dpAcrHasRegisteredArcLinkClickAction;
+                    P.when('A', 'ready').execute(function(A) {
+                        if (dpAcrHasRegisteredArcLinkClickAction !== true) {
+                            dpAcrHasRegisteredArcLinkClickAction = true;
+                            A.declarative(
+                                'acrLink-click-metrics', 'click',
+                                { "allowLinkDefault": true },
+                                function (event) {
+                                    if (window.ue) {
+                                        ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);
+                                    }
+                                }
+                            );
+                        }
+                    });
+                </script>
+                 <script type="text/javascript">
+            P.when('A', 'cf').execute(function(A) {
+                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){
+                    if(window.ue) {
+                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);
+                    }
+                });
+            });
+        </script>
+
+           </div>
+       </span></li>  </ul> <div class="a-row">       </div> <div class="a-row">         </div> </div>
+
+<div id="prodDetails" class="a-section">              <div class="a-section"> <div class="a-row a-spacing-top-small"> <div class="a-column a-span3">   <h1 class="a-size-large a-spacing-none a-text-bold"> Product information </h1>    </div> <div class="a-column a-span3 a-span-last"> <div class="a-section voyager-expand-collapse-toggle-container"> <span class="a-declarative" data-action="voyager-collapse-all-handler" data-csa-c-type="widget" data-csa-c-func-deps="aui-da-voyager-collapse-all-handler" data-voyager-collapse-all-handler="{}" data-csa-c-id="n2yiv4-f9ggz2-n16n2i-mzasc5"> <span id="voyager-collapse-all-btn" class="a-button a-button-toggle voyager-expand-collapse-all-btn"><span class="a-button-inner"><input data-csa-c-content-id="voyager-collapse-all-btn" data-csa-c-slot-id="voyager-collapse-all-btn" data-csa-c-type="button" class="a-button-input" type="submit" aria-labelledby="voyager-collapse-all-btn-announce" data-csa-c-id="107s3f-f2jk5s-t8ijwo-352mqw"><span id="voyager-collapse-all-btn-announce" class="a-button-text" aria-hidden="true"> <span class="a-size-medium voyager-expander-handler-toggle"> Collapse All </span> </span></span></span> </span> <span class="a-declarative" data-action="voyager-expand-all-handler" data-csa-c-type="widget" data-csa-c-func-deps="aui-da-voyager-expand-all-handler" data-voyager-expand-all-handler="{}" data-csa-c-id="uvbnqc-dphh9o-blmeqa-w1uzmd"> <span id="voyager-expand-all-btn" class="a-button a-button-toggle voyager-expand-collapse-all-btn a-button-disabled"><span class="a-button-inner"><input data-csa-c-content-id="voyager-expand-all-btn" data-csa-c-slot-id="voyager-expand-all-btn" data-csa-c-type="button" class="a-button-input" type="submit" aria-labelledby="voyager-expand-all-btn-announce" data-csa-c-id="2ohqoq-h89e2f-po4b3d-q4hmk9" disabled=""><span id="voyager-expand-all-btn-announce" class="a-button-text" aria-hidden="true"> <span class="a-size-medium voyager-expander-handler-toggle"> Expand All </span> </span></span></span> </span> </div> </div> </div> </div>                     <div id="productDetails_expanderSectionTables" class="a-section">  <script type="a-state" data-a-state="{&quot;key&quot;:&quot;voyager-desktop-context&quot;}">{"product_type":"ANIMAL_NUTRITIONAL_SUPPLEMENT","voyager-desktop-treatment":"T4"}</script>  <div class="a-row"> <div class="a-column a-span6">  <div class="a-row a-spacing-medium-plus">           <div id="productDetails_expanderTables_depthLeftSections" class="a-section">   <div data-csa-c-content-id="voyager-expander-btn-t2" data-csa-c-slot-id="voyager-expander-btn-t2" data-csa-c-type="button" class="a-row a-expander-container a-expander-section-container a-section-expander-container" data-csa-c-id="vn228y-wjizik-clizl9-eysrom">    <span class="a-declarative" data-action="voyager-expander-heading-toggle" data-csa-c-type="widget" data-csa-c-func-deps="aui-da-voyager-expander-heading-toggle" data-voyager-expander-heading-toggle="{&quot;sectionIndex&quot;:0,&quot;columnName&quot;:&quot;depthLeftSections&quot;}" data-csa-c-id="f51vtn-6smmyz-frqh1v-f0stec"> <a data-csa-c-func-deps="aui-da-a-expander-toggle" data-csa-c-type="widget" data-csa-interaction-events="click" aria-expanded="true" role="button" href="javascript:void(0)" data-action="a-expander-toggle" class="a-expander-header a-declarative a-expander-section-header prodDet-expander-header-styling a-color-offset-background a-link-section-expander a-size-medium" data-a-expander-toggle="{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;&quot;, &quot;collapse_prompt&quot;:&quot;&quot;}" data-csa-c-id="ok66ac-hr5aqq-5ia2hk-ikars4"><i class="a-icon a-icon-section-collapse"></i><span class="a-expander-prompt"> Measurements </span></a> </span> <div data-expanded="true" class="a-expander-content a-expander-extend-content a-expander-content-expanded" style="overflow: hidden;"> <div class="a-section">          <table class="a-keyvalue prodDetTable" role="presentation">       <tbody><tr>   <th class="a-color-secondary a-size-base prodDetSectionEntry"> Volume </th>  <td class="a-size-base prodDetAttrValue"> 0.34 Kilograms </td> </tr>          <tr>   <th class="a-color-secondary a-size-base prodDetSectionEntry"> Item Weight </th>  <td class="a-size-base prodDetAttrValue"> 12 Ounces </td> </tr>     </tbody></table>     </div> </div>    </div>   <div data-csa-c-content-id="voyager-expander-btn-t2" data-csa-c-slot-id="voyager-expander-btn-t2" data-csa-c-type="button" class="a-row a-expander-container a-expander-section-container a-section-expander-container" data-csa-c-id="c2q3m-yhhmrk-dddkm4-tzdpa8">    <span class="a-declarative" data-action="voyager-expander-heading-toggle" data-csa-c-type="widget" data-csa-c-func-deps="aui-da-voyager-expander-heading-toggle" data-voyager-expander-heading-toggle="{&quot;sectionIndex&quot;:1,&quot;columnName&quot;:&quot;depthLeftSections&quot;}" data-csa-c-id="imsngh-z62ug3-su5rxv-79kohx"> <a data-csa-c-func-deps="aui-da-a-expander-toggle" data-csa-c-type="widget" data-csa-interaction-events="click" aria-expanded="true" role="button" href="javascript:void(0)" data-action="a-expander-toggle" class="a-expander-header a-declarative a-expander-section-header prodDet-expander-header-styling a-color-offset-background a-link-section-expander a-size-medium" data-a-expander-toggle="{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;&quot;, &quot;collapse_prompt&quot;:&quot;&quot;}" data-csa-c-id="6xy1fv-qzlhkq-gajpff-ef8ilt"><i class="a-icon a-icon-section-collapse"></i><span class="a-expander-prompt"> Features &amp; Specs </span></a> </span> <div data-expanded="true" class="a-expander-content a-expander-extend-content a-expander-content-expanded" style="overflow: hidden;"> <div class="a-section">          <table class="a-keyvalue prodDetTable" role="presentation">       <tbody><tr>   <th class="a-color-secondary a-size-base prodDetSectionEntry"> Vitamins And Minerals </th>  <td class="a-size-base prodDetAttrValue"> 12.6 Milligrams, 12.6, 705, 78 Milligrams </td> </tr>          <tr>   <th class="a-color-secondary a-size-base prodDetSectionEntry"> Protein </th>  <td class="a-size-base prodDetAttrValue"> 17 Grams </td> </tr>          <tr>   <th class="a-color-secondary a-size-base prodDetSectionEntry"> Dog Breed Size </th>  <td class="a-size-base prodDetAttrValue"> Large </td> </tr>          <tr>   <th class="a-color-secondary a-size-base prodDetSectionEntry"> Flavor </th>  <td class="a-size-base prodDetAttrValue"> Unflavored </td> </tr>          <tr>   <th class="a-color-secondary a-size-base prodDetSectionEntry"> Item Form </th>  <td class="a-size-base prodDetAttrValue"> Powder </td> </tr>     </tbody></table>     </div> </div>    </div>  </div>  </div>   <div class="a-row a-spacing-base">        </div> <div class="a-row">         <div class="a-section">     <h1 class="a-size-base a-spacing-small a-text-bold"> Feedback </h1>       <div class="a-section table-padding">   <div class="a-row">       </div><div class="a-row">      <input type="hidden" name="aapiCsrfToken" value="1@g8BwtDx4yWj/5HFvW7YCMK05hCdVNAi9Y3w4ceFzg4rdAAAAAQAAAABnWmAPcmF3AAAAABVX8CwXqz42z+J7i/ABqA==@NLD_6LX7UT" id="aapiCsrfToken"> <input type="hidden" name="isStateRequired" value="true" id="isStateRequired"> <input type="hidden" name="isStoreRequired" value="true" id="isStoreRequired"> <input type="hidden" name="aapiEndpoint" value="https://data.amazon.com" id="aapiEndpoint"> <input type="hidden" name="modalHeader" value="Tell Us About a Lower Price" id="modalHeader"> <input type="hidden" name="productCategory" value="gl_pet_products" id="productCategory"> <input type="hidden" name="productImageUrl" value="https://m.media-amazon.com/images/I/41yxK0HGkKL._SS75_.jpg" id="productImageUrl"> <input type="hidden" name="priceSymbol" value="$" id="priceSymbol"> <input type="hidden" name="priceValue" value="8.99" id="priceValue"> <input type="hidden" name="productTitle" value="Brewers Yeast Powder for Lactation to Boost Mother&amp;#39;s Milk - Kate Naturals. Brewer&amp;#39;s Yeast Powder for Lactation Cookies. Gluten Free &amp;amp; Non-GMO Lactation Supplement. Edible for Dogs &amp;amp; Ducks (12oz)" id="productTitle"> <input type="hidden" name="currencyOfPreference" value="USD" id="currencyOfPreference"> <input type="hidden" name="absoluteUrlPrefix" value="https://www.amazon.com" id="absoluteUrlPrefix"> <input type="hidden" name="customerId" id="customerId"> <input type="hidden" name="isCustomerLoggedIn" value="false" id="isCustomerLoggedIn"> <input type="hidden" name="isCurrentGlOnlineOnly" value="false" id="isCurrentGlOnlineOnly"> <input type="hidden" name="asin" value="B07KNYN7F4" id="asin"> <input type="hidden" name="marketplaceId" value="ATVPDKIKX0DER" id="marketplaceId"> <input type="hidden" name="countryCode" value="KR" id="countryCode"> <input type="hidden" name="lowerPriceInfo" value="Found a lower price? Let us know. Although we can't match every price reported, we'll use your feedback to ensure that our prices remain competitive." id="lowerPriceInfo"> <input type="hidden" name="lowerPriceWhere" value="Where did you see a lower price?" id="lowerPriceWhere"> <input type="hidden" name="labelPermalink" value="Share" id="labelPermalink"> <input type="hidden" name="labelOnline" value="Website (Online)" id="labelOnline"> <input type="hidden" name="labelOffline" value="Store (Offline)" id="labelOffline"> <input type="hidden" name="lowerPriceSignIn" value="Please <a href=&quot;${sign-in-url}&quot;>sign in</a> to provide feedback." id="lowerPriceSignIn"> <input type="hidden" name="labelStoreName" value="Store name" id="labelStoreName"> <input type="hidden" name="addressCity" value="City" id="addressCity"> <input type="hidden" name="addressState" value="State" id="addressState"> <input type="hidden" name="selectProvince" value="Please select province" id="selectProvince"> <input type="hidden" name="labelDateOfPrice" value="Date of the price" id="labelDateOfPrice"> <input type="hidden" name="labelUrl" value="URL" id="labelUrl"> <input type="hidden" name="labelPrice" value="Price" id="labelPrice"> <input type="hidden" name="labelShipping" value="Shipping cost" id="labelShipping"> <input type="hidden" name="submitFeedback" value="Submit Feedback" id="submitFeedback"> <input type="hidden" name="errorNoType" value="Please select where the product was sold." id="errorNoType"> <input type="hidden" name="errorBadPrice" value="Please only use numbers in the Price field." id="errorBadPrice"> <input type="hidden" name="errorBadPriceShipping" value="Please only use numbers in the Price and Shipping fields." id="errorBadPriceShipping"> <input type="hidden" name="errorInvalidUrl" value="Please enter a valid URL." id="errorInvalidUrl"> <input type="hidden" name="errorSubmission" value="There was an error sending your feedback. Please try again." id="errorSubmission"> <input type="hidden" name="errorEmptyFields" value="Please fill in all the fields." id="errorEmptyFields"> <input type="hidden" name="errorMissingCity" value="Please specify the city" id="errorMissingCity"> <input type="hidden" name="thankFeedback" value="Thank you for your feedback." id="thankFeedback"> <input type="hidden" name="errorEmptyUrl" value="Enter url" id="errorEmptyUrl"> <input type="hidden" name="offlineStoresList" value="[&quot;47th Street Photo&quot;,&quot;6th Ave&quot;,&quot;Accessory Genie&quot;,&quot;Ace Digital Club&quot;,&quot;Ace Hardware&quot;,&quot;Action Village&quot;,&quot;Adorama Camera&quot;,&quot;Albertsons&quot;,&quot;All Spare Tools&quot;,&quot;Athlete 101&quot;,&quot;Autobarn&quot;,&quot;AutoZone&quot;,&quot;Baby Universe&quot;,&quot;Backcountry&quot;,&quot;Barnes &amp; Noble&quot;,&quot;Barrons&quot;,&quot;Beach Audio&quot;,&quot;Bealls Florida&quot;,&quot;Bed Bath &amp; Beyond&quot;,&quot;Best Buy&quot;,&quot;Builder Depot&quot;,&quot;Campmor&quot;,&quot;CDW&quot;,&quot;Chelsea&quot;,&quot;Circuit City&quot;,&quot;Comp USA&quot;,&quot;Computer Geeks&quot;,&quot;Cooler Books&quot;,&quot;Costco&quot;,&quot;Crutchfield&quot;,&quot;CVS&quot;,&quot;Dell&quot;,&quot;Dick's Sporting Goods&quot;,&quot;Dillard's&quot;,&quot;Dishes Decor&amp;More&quot;,&quot;Dynadirect&quot;,&quot;EBGames&quot;,&quot;eek Technology&quot;,&quot;Electro Galaxy&quot;,&quot;Emotronics&quot;,&quot;eToys&quot;,&quot;Etronics&quot;,&quot;Everything Fitness&quot;,&quot;Factory Direct&quot;,&quot;Famous Brand Watches&quot;,&quot;Fine Brand Watches&quot;,&quot;Fitbuy&quot;,&quot;Folica&quot;,&quot;Foot Locker&quot;,&quot;Fred Meyer&quot;,&quot;Fry's Electronics&quot;,&quot;Full Compass Systems&quot;,&quot;Future Shop&quot;,&quot;GameStop&quot;,&quot;Giardinelli&quot;,&quot;Grizzly&quot;,&quot;Guitar Center&quot;,&quot;Heart Rate Monitors&quot;,&quot;HEB&quot;,&quot;HMV&quot;,&quot;Home &amp; Beyond&quot;,&quot;Home Depot&quot;,&quot;JC Whitney&quot;,&quot;J&amp;R&quot;,&quot;J&amp;R Music and Computer World&quot;,&quot;Juicy Kitchen&quot;,&quot;Karate Depot&quot;,&quot;Kmart&quot;,&quot;Kohls&quot;,&quot;Let's Talk&quot;,&quot;Lowe's&quot;,&quot;Macy's&quot;,&quot;Menards&quot;,&quot;Mercantila&quot;,&quot;Metro Kitchen&quot;,&quot;Mountain Gear&quot;,&quot;Musician's Friend&quot;,&quot;My Time Piece&quot;,&quot;NAPA&quot;,&quot;Nordstrom&quot;,&quot;Office Depot&quot;,&quot;Office Max&quot;,&quot;One Call&quot;,&quot;Parts America&quot;,&quot;Polar Discount&quot;,&quot;QFC&quot;,&quot;Randalls&quot;,&quot;REI&quot;,&quot;Ritz Camera&quot;,&quot;Rocky Point&quot;,&quot;Ross Dress For Less&quot;,&quot;Safeway&quot;,&quot;Sam's Club&quot;,&quot;Sears&quot;,&quot;Sharper Image&quot;,&quot;Shopper's Choice&quot;,&quot;Smart Bargains&quot;,&quot;Sports Authority&quot;,&quot;Sports R Us&quot;,&quot;Staples&quot;,&quot;Summit Racing Equipment&quot;,&quot;Swing Some Where&quot;,&quot;Target&quot;,&quot;Tech Depot&quot;,&quot;The Electronic Company&quot;,&quot;The Gadget Source&quot;,&quot;The Vitamin Shoppe&quot;,&quot;Tiger Direct&quot;,&quot;Tom Thumb&quot;,&quot;Tool Barn&quot;,&quot;Tool King&quot;,&quot;Tool Town&quot;,&quot;TOP Foods&quot;,&quot;Toys R Us&quot;,&quot;Tyler Tool&quot;,&quot;Uncle Joe&quot;,&quot;Vanns&quot;,&quot;Walgreens&quot;,&quot;Walmart&quot;,&quot;Watch Savings&quot;,&quot;Watch Zone&quot;,&quot;Weather Buffs&quot;,&quot;Whole Foods&quot;,&quot;Wholesale AV&quot;,&quot;Wine Enthusiast&quot;,&quot;Wirefly&quot;,&quot;Xcessory&quot;]" id="offlineStoresList"> <input type="hidden" name="statesList" value="[{&quot;value&quot;:&quot;AK&quot;,&quot;name&quot;:&quot;AK&quot;},{&quot;value&quot;:&quot;AL&quot;,&quot;name&quot;:&quot;AL&quot;},{&quot;value&quot;:&quot;AR&quot;,&quot;name&quot;:&quot;AR&quot;},{&quot;value&quot;:&quot;AZ&quot;,&quot;name&quot;:&quot;AZ&quot;},{&quot;value&quot;:&quot;CA&quot;,&quot;name&quot;:&quot;CA&quot;},{&quot;value&quot;:&quot;CO&quot;,&quot;name&quot;:&quot;CO&quot;},{&quot;value&quot;:&quot;CT&quot;,&quot;name&quot;:&quot;CT&quot;},{&quot;value&quot;:&quot;DC&quot;,&quot;name&quot;:&quot;DC&quot;},{&quot;value&quot;:&quot;DE&quot;,&quot;name&quot;:&quot;DE&quot;},{&quot;value&quot;:&quot;FL&quot;,&quot;name&quot;:&quot;FL&quot;},{&quot;value&quot;:&quot;GA&quot;,&quot;name&quot;:&quot;GA&quot;},{&quot;value&quot;:&quot;HI&quot;,&quot;name&quot;:&quot;HI&quot;},{&quot;value&quot;:&quot;IA&quot;,&quot;name&quot;:&quot;IA&quot;},{&quot;value&quot;:&quot;ID&quot;,&quot;name&quot;:&quot;ID&quot;},{&quot;value&quot;:&quot;IL&quot;,&quot;name&quot;:&quot;IL&quot;},{&quot;value&quot;:&quot;IN&quot;,&quot;name&quot;:&quot;IN&quot;},{&quot;value&quot;:&quot;KS&quot;,&quot;name&quot;:&quot;KS&quot;},{&quot;value&quot;:&quot;KY&quot;,&quot;name&quot;:&quot;KY&quot;},{&quot;value&quot;:&quot;LA&quot;,&quot;name&quot;:&quot;LA&quot;},{&quot;value&quot;:&quot;MA&quot;,&quot;name&quot;:&quot;MA&quot;},{&quot;value&quot;:&quot;MD&quot;,&quot;name&quot;:&quot;MD&quot;},{&quot;value&quot;:&quot;ME&quot;,&quot;name&quot;:&quot;ME&quot;},{&quot;value&quot;:&quot;MI&quot;,&quot;name&quot;:&quot;MI&quot;},{&quot;value&quot;:&quot;MN&quot;,&quot;name&quot;:&quot;MN&quot;},{&quot;value&quot;:&quot;MO&quot;,&quot;name&quot;:&quot;MO&quot;},{&quot;value&quot;:&quot;MS&quot;,&quot;name&quot;:&quot;MS&quot;},{&quot;value&quot;:&quot;MT&quot;,&quot;name&quot;:&quot;MT&quot;},{&quot;value&quot;:&quot;NC&quot;,&quot;name&quot;:&quot;NC&quot;},{&quot;value&quot;:&quot;ND&quot;,&quot;name&quot;:&quot;ND&quot;},{&quot;value&quot;:&quot;NE&quot;,&quot;name&quot;:&quot;NE&quot;},{&quot;value&quot;:&quot;NH&quot;,&quot;name&quot;:&quot;NH&quot;},{&quot;value&quot;:&quot;NJ&quot;,&quot;name&quot;:&quot;NJ&quot;},{&quot;value&quot;:&quot;NM&quot;,&quot;name&quot;:&quot;NM&quot;},{&quot;value&quot;:&quot;NV&quot;,&quot;name&quot;:&quot;NV&quot;},{&quot;value&quot;:&quot;NY&quot;,&quot;name&quot;:&quot;NY&quot;},{&quot;value&quot;:&quot;OH&quot;,&quot;name&quot;:&quot;OH&quot;},{&quot;value&quot;:&quot;OK&quot;,&quot;name&quot;:&quot;OK&quot;},{&quot;value&quot;:&quot;OR&quot;,&quot;name&quot;:&quot;OR&quot;},{&quot;value&quot;:&quot;PA&quot;,&quot;name&quot;:&quot;PA&quot;},{&quot;value&quot;:&quot;RI&quot;,&quot;name&quot;:&quot;RI&quot;},{&quot;value&quot;:&quot;SC&quot;,&quot;name&quot;:&quot;SC&quot;},{&quot;value&quot;:&quot;SD&quot;,&quot;name&quot;:&quot;SD&quot;},{&quot;value&quot;:&quot;TN&quot;,&quot;name&quot;:&quot;TN&quot;},{&quot;value&quot;:&quot;TX&quot;,&quot;name&quot;:&quot;TX&quot;},{&quot;value&quot;:&quot;UT&quot;,&quot;name&quot;:&quot;UT&quot;},{&quot;value&quot;:&quot;VA&quot;,&quot;name&quot;:&quot;VA&quot;},{&quot;value&quot;:&quot;VT&quot;,&quot;name&quot;:&quot;VT&quot;},{&quot;value&quot;:&quot;WA&quot;,&quot;name&quot;:&quot;WA&quot;},{&quot;value&quot;:&quot;WI&quot;,&quot;name&quot;:&quot;WI&quot;},{&quot;value&quot;:&quot;WV&quot;,&quot;name&quot;:&quot;WV&quot;},{&quot;value&quot;:&quot;WY&quot;,&quot;name&quot;:&quot;WY&quot;}]" id="statesList"> <style>
+        .grid-container {
+            display: block;
+            flex-direction: column;
+        }
+
+        .grid-row {
+            align-items: center;
+            margin-bottom: 10px;
+            margin-left: 20px;
+        }
+
+        .grid-label {
+            min-width: 50px;
+            padding-right: 10px;
+        }
+
+        .widgetAlerts {
+            display: none;
+        }
+
+        .grid-input {
+            flex: 1;
+            width: 100%
+        }
+
+        .asterisk {
+            color: #EB0000;
+        }
+
+        .visually-hidden {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            margin: -1px;
+            padding: 0;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            border: 0;
+        }
+        .priceavailability{
+            padding: 0 28px;
+        }
+        @media (min-width: 420px) and (max-width: 550px){
+            .container{
+                display: block;
+            }
+            .grid-input{
+                font-size: 85%;
+
+            }
+            .priceavailability{
+                padding: 0 28px;
+            }
+            .a-dropdown-container .a-button-dropdown .a-button-text{
+                font-size: 79%;
+            }
+
+
+
+        }
+        @media (min-width: 320px) and (max-width: 419px) {
+            .priceavailability{
+                padding: 0 0px;
+            }
+            .container{
+                display: block;
+            }
+
+            .grid-input{
+                font-size: 80%;
+            }
+            input#offlineCity.grid-input{
+                font-size: 62%;
+            }
+            span#stateValue{
+                .grid-input
+                {
+                    font-size: 77%;
+                }
+
+            }
+            .a-dropdown-container .a-button-dropdown .a-button-text{
+                font-size: 65%;
+            }
+
+
+
+        }
+
+    </style>
+
+    <div>
+        <div class="detailPageWidgetBlock" id="pricingFeedbackDiv">
+            <span class="a-declarative" data-action="pricingFeedback-modal-button" data-csa-c-type="widget" data-csa-c-func-deps="aui-da-pricingFeedback-modal-button" data-pricingfeedback-modal-button="{}" data-csa-c-id="415m33-ve6kiw-8de0xo-me6iki"> Would you like to  <b>
+                    <a href="javascript:void(0)" role="button" class="a-popover-trigger a-declarative"> tell us about a lower price?
+                    <i class="a-icon a-icon-popover"></i></a> </b>
+            </span> </div>
+
+        <div class="a-popover-preload" id="a-popover-pricingFeedback-modal-content"> <div id="pricingFeedback_contentContainer" class="contentContainer" style="overflow: auto;">
+
+                <div id="feedbackForm" style="display: none;">
+                    <div id="pricingFeedback_titleBar">
+                        <div class="container" style="display: flex;">
+                            <div style="width: 30%;">
+                                <img src="https://m.media-amazon.com/images/I/41yxK0HGkKL._SS75_.jpg" width="75" alt="" height="75" border="0" tabindex="0">
+                            </div>
+                            <div style="flex-grow: 1;">
+                                <p tabindex="0">Brewers Yeast Powder for Lactation to Boost Mother's Milk - Kate Naturals. Brewer's Yeast Powder for Lactation Cookies. Gluten Free &amp; Non-GMO Lactation Supplement. Edible for Dogs &amp; Ducks (12oz)</p>
+                                <p id="permalink">
+                                    <b>Share:
+                                    </b>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="pricingFeedback_content"></div>
+                    <hr>
+                    <p tabindex="0">Found a lower price? Let us know. Although we can't match every price reported, we'll use your feedback to ensure that our prices remain competitive.</p>
+                    <h2 tabindex="0">Where did you see a lower price?</h2>
+                    <p id="note1" style="display: none" tabindex="0">Fields with an asterisk <span class="asterisk" aria-hidden="true">*</span> are required</p>
+                    <div class="priceavailability">
+                        <fieldset role="radiogroup" aria-labelledby="PriceAvailabilitySection">
+                            <legend class="visually-hidden">Price Availability</legend>
+                        <fieldset role="group" aria-labelledby="OnlinePriceAvailabilitySection">
+                            <legend>
+                                <div id="onlineRadioContainer" style="display: flex">
+                                    <input type="radio" name="retailerType" value="online" id="pricingFeedback_onlineRadio">
+                                    <label for="pricingFeedback_onlineRadio">Website (Online)</label>
+                                </div>
+                            </legend>
+
+                            <div id="pricingFeedback_onlineInput" class="grid-container">
+                                <div class="grid-row">
+                                    <label for="onlineUrl" class="grid-label" id="onlineUrlLabel">URL <span class="asterisk">*</span>:</label>
+                                    <div class="a-fixed-left-grid-col a-col-right grid-input">
+                                        <input type="text" size="32" maxlength="500" name="onlineUrl" id="onlineUrl" aria-required="true" class="grid-input" placeholder="Enter URL where you found the price lower">
+                                        <div id="onlineUrl-missing-alert" class="a-box a-alert-inline a-alert-inline-error auth-inlined-error-message
+                                             a-spacing-top-mini widgetAlerts" role="alert">
+                                            <div class="a-box-inner a-alert-container">
+                                                <i class="a-icon a-icon-alert"></i>
+                                                <span id="urlAlert" class="a-alert-content"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="grid-row">
+                                    <label for="onlinePriceRaw" class="grid-label" id="onlinePriceRawLabel">Price
+                                        ($)
+                                        <span class="asterisk">*</span>:
+                                    </label>
+                                    <div class="a-fixed-left-grid-col a-col-right grid-input">
+                                        <input type="number" size="20" maxlength="10" name="onlinePriceRaw" id="onlinePriceRaw" aria-required="true" class="grid-input" placeholder="Enter the price of the product">
+                                        <div id="onlinePrice-missing-alert" class="a-box a-alert-inline a-alert-inline-error auth-inlined-error-message
+                                             a-spacing-top-mini widgetAlerts" role="alert">
+                                            <div class="a-box-inner a-alert-container">
+                                                <i class="a-icon a-icon-alert"></i>
+                                                <span id="priceAlertOnline" class="a-alert-content"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="grid-row">
+                                    <label for="onlineShippingRaw" class="grid-label" id="onlineShippingRawLabel">Shipping cost
+                                        ($):
+                                    </label>
+                                    <div class="a-fixed-left-grid-col a-col-right grid-input">
+                                        <input type="number" size="20" maxlength="10" name="onlineShippingRaw" id="onlineShippingRaw" aria-required="false" class="grid-input" placeholder="Enter the shipping price, If any">
+                                        <div id="onlineShippingPrice-missing-alert" class="a-box a-alert-inline a-alert-inline-error auth-inlined-error-message
+                                             a-spacing-top-mini widgetAlerts" role="alert">
+                                            <div class="a-box-inner a-alert-container">
+                                                <i class="a-icon a-icon-alert"></i>
+                                                <span id="priceShippingAlertOnline" class="a-alert-content">
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="grid-row" role="group" aria-labelledby="onlineCalendarLabel">
+                                    <label for="onlineCalendar" class="grid-label" id="onlineCalendarLabel"> Date of the price
+                                        (MM/DD/YYYY):</label>
+                                    <div class="a-fixed-left-grid-col a-col-right grid-input">
+                                        <div>
+                                            <div id="onlineCalendar">
+                                                <div class="monthSection" style="flex: 1; float: left; display: inline-block;">
+                                                                    <span class="a-dropdown-container" role="combobox" aria-haspopup="listbox" aria-expanded="false" title="month">
+                                                                        <select id="onlineMonth" name="onlineMonth" autocomplete="off" data-a-native-class="a-native-dropdown" class="month-select a-native-dropdown a-native-dropdown" aria-hidden="false" aria-label="Select Month" tabindex="0">
+                                                                            <option id="onlineMonthOptionDefault" class="a-prompt" value=""></option>
+                                                                            <option value="1">01</option>
+                                                                            <option value="2">02</option>
+                                                                            <option value="3">03</option>
+                                                                            <option value="4">04</option>
+                                                                            <option value="5">05</option>
+                                                                            <option value="6">06</option>
+                                                                            <option value="7">07</option>
+                                                                            <option value="8">08</option>
+                                                                            <option value="9">09</option>
+                                                                            <option value="10">10</option>
+                                                                            <option value="11">11</option>
+                                                                            <option value="12">12</option>
+                                                                        </select>
+                                                                        <span class="a-button a-button-dropdown a-button-small a-button-width-normal" aria-hidden="true" id="a-autoid-24" style="min-width: 0%;">
+                                                                            <span class="a-button-inner">
+                                                                                <span class="a-button-text a-declarative" data-action="a-dropdown-button" role="button" aria-hidden="false" id="a-autoid-24-announce">
+                                                                                    <span id="onlineMonthPrompt" class="a-dropdown-prompt"></span>
+                                                                                </span>
+                                                                                <i class="a-icon a-icon-dropdown"></i>
+                                                                            </span>
+                                                                        </span>
+                                                                    </span>
+                                                </div>
+                                                <div class="firstDelimiter" style="flex: 1; float: left; display: inline-block;">
+                                                    /
+                                                </div>
+                                                <div class="daySection" style="flex: 1; float: left; display: inline-block;">
+                                                    <div>
+                                                                        <span class="a-dropdown-container" role="combobox" aria-haspopup="listbox" aria-expanded="false" title="day">
+                                                                            <select id="onlineDay" name="onlineDay" autocomplete="off" data-a-native-class="a-native-dropdown" class="day-select a-native-dropdown a-native-dropdown" aria-hidden="false" aria-label="Select Day" tabindex="0">
+                                                                                <option id="onlineDateOptionDefault" class="a-prompt" value=""></option>
+                                                                                <option value="1">01</option>
+                                                                                <option value="2">02</option>
+                                                                                <option value="3">03</option>
+                                                                                <option value="4">04</option>
+                                                                                <option value="5">05</option>
+                                                                                <option value="6">06</option>
+                                                                                <option value="7">07</option>
+                                                                                <option value="8">08</option>
+                                                                                <option value="9">09</option>
+                                                                                <option value="10">10</option>
+                                                                                <option value="11">11</option>
+                                                                                <option value="12">12</option>
+                                                                                <option value="13">13</option>
+                                                                                <option value="14">14</option>
+                                                                                <option value="15">15</option>
+                                                                                <option value="16">16</option>
+                                                                                <option value="17">17</option>
+                                                                                <option value="18">18</option>
+                                                                                <option value="19">19</option>
+                                                                                <option value="20">20</option>
+                                                                                <option value="21">21</option>
+                                                                                <option value="22">22</option>
+                                                                                <option value="23">23</option>
+                                                                                <option value="24">24</option>
+                                                                                <option value="25">25</option>
+                                                                                <option value="26">26</option>
+                                                                                <option value="27">27</option>
+                                                                                <option value="28">28</option>
+                                                                                <option value="29">29</option>
+                                                                                <option value="30">30</option>
+                                                                                <option value="31">31</option>
+                                                                            </select>
+                                                                            <span class="a-button a-button-dropdown a-button-small a-button-width-normal" aria-hidden="true" id="a-autoid-25" style="min-width: 0%;">
+                                                                                <span class="a-button-inner">
+                                                                                    <span class="a-button-text a-declarative" data-action="a-dropdown-button" role="button" aria-hidden="false" id="a-autoid-25-announce">
+                                                                                        <span id="onlineDatePrompt" class="a-dropdown-prompt"></span>
+                                                                                    </span>
+                                                                                    <i class="a-icon a-icon-dropdown"></i>
+                                                                                </span>
+                                                                            </span>
+                                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="secondDelimiter" style="flex: 1; float: left; display: inline-block;">
+                                                    /
+                                                </div>
+                                                <div class="yearSection" style="flex: 1; float: left; display: inline-block;">
+                                                    <div>
+                                                                        <span class="a-dropdown-container" role="combobox" aria-haspopup="listbox" aria-expanded="false" title="year">
+                                                                            <select id="onlineYear" name="onlineYear" autocomplete="off" data-a-native-class="a-native-dropdown" class="a-native-dropdown a-native-dropdown" aria-hidden="false" aria-label="Select Year" tabindex="0">
+                                                                                <option id="onlineYearOptionDefault" selected="selected" value="">
+                                                                                </option>
+                                                                            </select>
+                                                                            <span class="a-button a-button-dropdown a-button-small a-button-width-normal" aria-hidden="true" id="a-autoid-26" style="min-width: 0%;">
+                                                                                <span class="a-button-inner">
+                                                                                    <span class="a-button-text a-declarative" data-action="a-dropdown-button" role="button" aria-hidden="false" id="a-autoid-26-announce">
+                                                                                        <span id="onlineYearPrompt" class="a-dropdown-prompt">
+                                                                                </span>
+                                                                                    </span>
+                                                                                    <i class="a-icon a-icon-dropdown"></i>
+                                                                                </span>
+                                                                            </span>
+                                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </fieldset>
+                        <fieldset role="group" aria-labelledby="OfflinePriceAvailabilitySection">
+                            <legend>
+                                <div id="offlineRadioContainer" style="display: flex;margin-top: 10px">
+                                    <input type="radio" name="retailerType" value="offline" id="pricingFeedback_offlineRadio">
+                                    <label for="pricingFeedback_offlineRadio">Store (Offline)</label>
+                                </div>
+                            </legend>
+
+                            <div id="pricingFeedback_offlineInput" class="grid-container">
+                                <div class="grid-row">
+                                    <label id="storeLabel" class="grid-label" for="offlineStoreName">
+                                            Store name <span class="asterisk">*</span>:
+                                    </label>
+                                    <div class="a-button-inner a-dropdown-container grid-input" id="storeValue" style="font-size: 11px">
+                                        <select id="offlineStoreName" name="offlineStoreName" autocomplete="off" aria-required="true" data-a-native-class="a-native-dropdown" class="a-native-dropdown a-button-span10 a-native-dropdown" tabindex="0">
+                                            <option id="storeDefaultOption" class="a-prompt">
+                                                Enter the store name where you found this product
+                                            </option>
+
+                                        </select>
+                                        <span id="offlineStoreNameMain" class="a-button a-button-dropdown a-button-span10" aria-hidden="true" style="min-width: 0%;">
+            <span class="a-button-inner">
+                <span class="a-button-text a-declarative" data-action="a-dropdown-button" role="button" aria-hidden="true">
+                    <span id="storeDefaultPrompt" class="a-dropdown-prompt">
+                                                Enter the store name where you found this product
+                                            </span>
+                </span>
+                <i class="a-icon a-icon-dropdown"></i>
+            </span>
+        </span>
+                                    </div>
+                                    <div id="offlineStoreName-missing-alert" class="a-box a-alert-inline a-alert-inline-error auth-inlined-error-message
+         a-spacing-top-mini widgetAlerts" role="alert">
+                                        <div class="a-box-inner a-alert-container">
+                                            <i class="a-icon a-icon-alert"></i>
+                                            <span id="storeAlert" class="a-alert-content"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="grid-row">
+                                    <label for="offlineCity" class="grid-label" id="offlineCityLabel">
+                                            City <span class="asterisk">*</span>:</label>
+                                    
+                                    <input type="text" size="32" maxlength="100" name="offlineCity" id="offlineCity" aria-required="true" class="grid-input" placeholder="Enter the city where you found this product">
+                                    <div id="offlineCity-missing-alert" class="a-box a-alert-inline a-alert-inline-error auth-inlined-error-message
+                                             a-spacing-top-mini widgetAlerts" role="alert">
+                                        <div class="a-box-inner a-alert-container">
+                                            <i class="a-icon a-icon-alert"></i>
+                                            <span id="cityAlert" class="a-alert-content">
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <div class="grid-row">
+                                    <label id="stateLabel" class="grid-label" for="offlineState">
+                                            State:
+                                    </label>
+                                    <span class="a-button-inner a-dropdown-container grid-input" id="stateValue" style="font-size: 11px">
+                                                        <select id="offlineState" name="offlineState" autocomplete="off" aria-required="false" data-a-native-class="a-native-dropdown" class="a-native-dropdown a-button-span10 a-native-dropdown" tabindex="0">
+                                                            <option id="stateDefaultOption" class="a-prompt">
+                                                                    Please select province </option>
+                                                        </select>
+                                                        <span id="offlineStateMain" class="a-button a-button-dropdown a-button-span10" aria-hidden="true" style="min-width: 0%;">
+                                                            <span class="a-button-inner">
+                                                                <span class="a-button-text a-declarative" data-action="a-dropdown-button" role="button" aria-hidden="true">
+                                                                    <span id="stateDefaultPrompt" class="a-dropdown-prompt">
+                                                                    Please select province </span>
+                                                                </span>
+                                                                <i class="a-icon a-icon-dropdown"></i>
+                                                            </span>
+                                                        </span>
+                                                    </span>
+                                </div>
+                                <div class="grid-row">
+                                    <label for="offlinePriceRaw" class="grid-label" id="offlinePriceRawLabel">Price
+                                        ($)
+                                        <span class="asterisk">*</span>:
+                                    </label>
+                                    <div class="a-fixed-left-grid-col a-col-right grid-input">
+                                        <input type="number" size="20" maxlength="10" name="offlinePriceRaw" id="offlinePriceRaw" aria-required="true" class="grid-input" placeholder="Enter the price of the product">
+                                        <div id="offlinePriceRaw-missing-alert" class="a-box a-alert-inline a-alert-inline-error auth-inlined-error-message
+                                             a-spacing-top-mini widgetAlerts" role="alert">
+                                            <div class="a-box-inner a-alert-container">
+                                                <i class="a-icon a-icon-alert"></i>
+                                                <span id="priceAlertOffline" class="a-alert-content">
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="grid-row" role="group" aria-labelledby="offlineCalendarLabel">
+
+                                    <label for="offlineCalendar" class="grid-label" id="offlineCalendarLabel">Date of the price
+                                        (MM/DD/YYYY):</label>
+                                    <div class="a-fixed-left-grid-col a-col-right grid-input">
+                                        <div>
+                                            <div id="offlineCalendar">
+                                                <div class="monthSection" style="flex: 1; float: left; display: inline-block;">
+                                                                    <span class="a-dropdown-container" role="combobox" aria-haspopup="listbox" aria-expanded="false" title="month">
+                                                                        <select id="offlineMonth" name="offlineMonth" autocomplete="off" data-a-native-class="a-native-dropdown" class="month-select a-native-dropdown a-native-dropdown" aria-hidden="false" aria-label="Select Month" tabindex="0">
+                                                                            <option id="offlineMonthOptionDefault" class="a-prompt" value=""></option>
+                                                                            <option value="1">01</option>
+                                                                            <option value="2">02</option>
+                                                                            <option value="3">03</option>
+                                                                            <option value="4">04</option>
+                                                                            <option value="5">05</option>
+                                                                            <option value="6">06</option>
+                                                                            <option value="7">07</option>
+                                                                            <option value="8">08</option>
+                                                                            <option value="9">09</option>
+                                                                            <option value="10">10</option>
+                                                                            <option value="11">11</option>
+                                                                            <option value="12">12</option>
+                                                                        </select>
+                                                                        <span class="a-button a-button-dropdown a-button-small a-button-width-normal" aria-hidden="true" id="a-autoid-27" style="min-width: 0%;">
+                                                                            <span class="a-button-inner">
+                                                                                <span class="a-button-text a-declarative" data-action="a-dropdown-button" role="button" aria-hidden="true" id="a-autoid-27-announce">
+                                                                                    <span id="offlineMonthPrompt" class="a-dropdown-prompt"></span>
+                                                                                </span>
+                                                                                <i class="a-icon a-icon-dropdown"></i>
+                                                                            </span>
+                                                                        </span>
+                                                                    </span>
+                                                </div>
+                                                <div class="firstDelimiter" style="flex: 1; float: left; display: inline-block;">
+                                                    /
+                                                </div>
+                                                <div class="daySection" style="flex: 1; float: left; display: inline-block;">
+                                                    <div>
+                                                                        <span class="a-dropdown-container" role="combobox" aria-haspopup="listbox" aria-expanded="false" title="day">
+                                                                            <select id="offlineDay" name="offlineDay" autocomplete="off" data-a-native-class="a-native-dropdown" class="day-select a-native-dropdown a-native-dropdown" aria-hidden="false" aria-label="Select day" tabindex="0">
+                                                                                <option id="offlineDateOptionDefault" class="a-prompt" value=""></option>
+                                                                                <option value="1">01</option>
+                                                                                <option value="2">02</option>
+                                                                                <option value="3">03</option>
+                                                                                <option value="4">04</option>
+                                                                                <option value="5">05</option>
+                                                                                <option value="6">06</option>
+                                                                                <option value="7">07</option>
+                                                                                <option value="8">08</option>
+                                                                                <option value="9">09</option>
+                                                                                <option value="10">10</option>
+                                                                                <option value="11">11</option>
+                                                                                <option value="12">12</option>
+                                                                                <option value="13">13</option>
+                                                                                <option value="14">14</option>
+                                                                                <option value="15">15</option>
+                                                                                <option value="16">16</option>
+                                                                                <option value="17">17</option>
+                                                                                <option value="18">18</option>
+                                                                                <option value="19">19</option>
+                                                                                <option value="20">20</option>
+                                                                                <option value="21">21</option>
+                                                                                <option value="22">22</option>
+                                                                                <option value="23">23</option>
+                                                                                <option value="24">24</option>
+                                                                                <option value="25">25</option>
+                                                                                <option value="26">26</option>
+                                                                                <option value="27">27</option>
+                                                                                <option value="28">28</option>
+                                                                                <option value="29">29</option>
+                                                                                <option value="30">30</option>
+                                                                                <option value="31">31</option>
+                                                                            </select>
+                                                                            <span class="a-button a-button-dropdown a-button-small a-button-width-normal" aria-hidden="true" id="a-autoid-28" style="min-width: 0%;">
+                                                                                <span class="a-button-inner">
+                                                                                    <span class="a-button-text a-declarative" data-action="a-dropdown-button" role="button" aria-hidden="false" id="a-autoid-28-announce">
+                                                                                        <span id="offlineDatePrompt" class="a-dropdown-prompt"></span>
+                                                                                    </span>
+                                                                                    <i class="a-icon a-icon-dropdown"></i>
+                                                                                </span>
+                                                                            </span>
+                                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="secondDelimiter" style="flex: 1; float: left; display: inline-block;">
+                                                    /
+                                                </div>
+                                                <div class="yearSection" style="flex: 1; float: left; display: inline-block;">
+                                                    <div>
+                                                                        <span class="a-dropdown-container" role="combobox" aria-haspopup="listbox" aria-expanded="false" title="year">
+                                                                            <select id="offlineYear" name="offlineYear" autocomplete="off" data-a-native-class="a-native-dropdown" class="a-native-dropdown a-native-dropdown" aria-hidden="false" aria-label="Select year" tabindex="0">
+                                                                                <option id="offlineYearOptionDefault" selected="selected" value="">
+                                                                                </option>
+                                                                            </select>
+                                                                            <span class="a-button a-button-dropdown a-button-small a-button-width-normal" aria-hidden="true" id="a-autoid-29" style="min-width: 0%;">
+                                                                                <span class="a-button-inner">
+                                                                                    <span class="a-button-text a-declarative" data-action="a-dropdown-button" role="button" aria-hidden="true" id="a-autoid-29-announce">
+                                                                                        <span id="offlineYearPrompt" class="a-dropdown-prompt">
+                                                                                </span>
+                                                                                    </span>
+                                                                                    <i class="a-icon a-icon-dropdown"></i>
+                                                                                </span>
+                                                                            </span>
+                                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </fieldset>
+                        </fieldset>
+                        <div id="feedbackFormFinalState">
+                            <div id="pricingFeedback_error"></div>
+
+                            <div id="pricingFeedback_submit" style="padding: 0 15px 15px !important;margin-top: 15px">
+                                <div id="loading" style="float: left;"></div>
+                                <div style="float:left;">
+                                                    <span id="pfw_submit" class="a-button a-button-primary">
+                                                        <span class="a-button-inner">
+                                                            <input name="pfw_submit" title="PFWSubmit" class="a-button-input" type="submit" value="submit" aria-labelledby="pfw_submit-announce">
+                                                            <span id="pfw_submit-announce" class="a-button-text" aria-hidden="true">Submit Feedback</span>
+                                                        </span>
+                                                    </span>
+                                </div>
+                            </div>
+
+                            <div id="pricingFeedback_thank">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="a-popover-content" id="signUpForm" style="display: block;">
+                        Please <a href="${sign-in-url}">sign in</a> to provide feedback. </div>
+            </div>
+        </div> </div>
+ <script type="text/javascript">
+    P.when("A", "a-modal", "ready").execute(function (A, modal) {
+        var $ = A.$;
+
+        var instance;
+        var title = $("#modalHeader").val();
+        function getModalWidth() {
+            if (window.matchMedia("(max-width: 420px)").matches) {
+                return "320px"; // Width for very small screens
+            } else if (window.matchMedia("(max-width: 550px)").matches) {
+                return "420px"; // Width for small screens
+            } else {
+                return "550px"; // Default width
+            }
+        }
+
+        A.declarative("pricingFeedback-modal-button", "click", function (event) {
+            if (!instance) {
+                var options = {
+                    name: "pricingFeedback-modal-content",
+                    dataStrategy: "preload",
+                };
+                instance = modal.create(event.$target, options);
+            }
+            instance.update({
+                header: title,
+                width: getModalWidth()
+            }).lock().show();
+        });
+        $(window).resize(function() {
+            if (instance) {
+                instance.update({
+                    width: getModalWidth()
+                });
+            }
+        });
+    });
+
+
+    P.when('A', 'ready').execute(function (A) {
+        var $ = A.$;
+
+        var csrf = $("#aapiCsrfToken").val();
+        var productPrice = $("#priceValue").val();
+        var hostname = $("#absoluteUrlPrefix").val();
+        var customerId = $("#customerId").val();
+        var isCustomerRecognized = ($("#isCustomerLoggedIn").val() === 'true');
+        var isCurrentGlOnlineOnly = ($("#isCurrentGlOnlineOnly").val() === 'true');
+        var asin = $("#asin").val();
+        var marketplaceId = $("#marketplaceId").val();
+        var country = $("#countryCode").val();
+        var offlineStoresList = $("#offlineStoresList").val();
+        var statesList = $("#statesList").val();
+
+        var errorMessages = {
+            errorNoRetailerType: $("#errorNoType").val(),
+            errorBadPrice: $("#errorBadPrice").val(),
+            errorBadPriceShipping: $("#errorBadPriceShipping").val(),
+            errorInvalidUrl: $("#errorInvalidUrl").val(),
+            errorSubmission: $("#errorSubmission").val(),
+            errorEmptyFields: $("#errorEmptyFields").val(),
+            errorMissingCity: $("#errorMissingCity").val(),
+            errorEmptyUrl:$("#errorEmptyUrl").val(),
+            thankFeedback: $("#thankFeedback").val()
+        };
+
+        var feedbackFormContent = document.querySelector('#feedbackForm');
+        var signUpContainer = document.querySelector('#signUpForm');
+        var feedbackFormFinalStateContainer = document.querySelector('#feedbackFormFinalState');
+
+        var states = JSON.parse(statesList);
+        var offlineStores = JSON.parse(offlineStoresList);
+
+        var offlineStoresEnabled = !isCurrentGlOnlineOnly;
+        var currentDate = getCurrentDay();
+        var currentMonth = getCurrentMonth();
+        var currentYear = getCurrentYear();
+
+        if (isCustomerRecognized) {
+            feedbackFormContent.style['display'] = 'block';
+            signUpContainer.style['display'] = 'none';
+
+            var enableOnlineStoreRadio = document.querySelector('#pricingFeedback_onlineRadio');
+            var enableOfflineStoreRadio = document.querySelector('#pricingFeedback_offlineRadio');
+            var onlineStoreInputForm = document.querySelector('#pricingFeedback_onlineInput');
+            var offlineStoreInputForm = document.querySelector('#pricingFeedback_offlineInput');
+            var offlineStateSelect = document.querySelector('#offlineState');
+            var offlineStoreSelect = document.querySelector('#offlineStoreName');
+            var submitButton = document.querySelector('#pricingFeedback_submit');
+            var onlineUrl = document.querySelector('#onlineUrl');
+            var onlinePriceRaw = document.querySelector('#onlinePriceRaw');
+            var onlineShippingRaw = document.querySelector('#onlineShippingRaw');
+            var onlineDay = document.querySelector('#onlineDay');
+            var onlineMonth = document.querySelector('#onlineMonth');
+            var onlineYear = document.querySelector('#onlineYear');
+            var onlineCalendar = document.querySelector('#onlineCalendar');
+            var note1 = document.querySelector('#note1');
+
+            var offlineRadioContainer = document.querySelector('#offlineRadioContainer');
+            var offlineStoreName = document.querySelector('#offlineStoreName');
+            var offlineCity = document.querySelector('#offlineCity');
+            var offlineState = document.querySelector('#offlineState');
+            var offlinePriceRaw = document.querySelector('#offlinePriceRaw');
+            var offlineDay = document.querySelector('#offlineDay');
+            var offlineMonth = document.querySelector('#offlineMonth');
+            var offlineYear = document.querySelector('#offlineYear');
+            var offlineCalendar = document.querySelector('#offlineCalendar');
+
+            var thankYouDiv = document.querySelector('#pricingFeedback_thank');
+            var errorDiv = document.querySelector('#pricingFeedback_error');
+            var loadingGifDiv = document.querySelector('#loading');
+            var offlineStateMain = document.querySelector('#offlineStateMain');
+            note1 = document.querySelector('#note1');
+            setCalenderOrderBasedOnCountry(country);
+
+            setInitialStates(
+                onlineMonth,
+                currentMonth,
+                offlineMonth,
+                onlineDay,
+                currentDate,
+                offlineDay,
+                onlineYear,
+                currentYear,
+                offlineYear,
+                onlineStoreInputForm,
+                offlineStoreInputForm,
+                enableOfflineStoreRadio,
+                enableOnlineStoreRadio,
+                onlineCalendar,
+                offlineCalendar,
+                offlineStateMain,
+                offlineState,
+                note1
+            );
+
+            createPermalinkContainer(asin, hostname);
+
+            for (let state of states) {
+                var option = document.createElement('option');
+                option.setAttribute('value', state['value']);
+                option.innerText = state['name'];
+                offlineStateSelect.appendChild(option);
+            }
+
+            offlineStores.forEach(function(store) {
+                var option = document.createElement('option');
+                option.value = store;
+                option.textContent = store;
+                offlineStoreSelect.appendChild(option);
+            });
+
+            function setCSSForFeedbackForm() {
+                const labels = document.querySelectorAll('.grid-label');
+                let maxWidth = 0;
+
+                labels.forEach(label => {
+                    maxWidth = Math.max(maxWidth, label.clientWidth);
+                });
+
+                labels.forEach(label => {
+                    label.style.minWidth = maxWidth + 'px';
+                });
+            }
+
+            $("#pricingFeedback_onlineRadio").click(function () {
+                onlineStoreInputForm.style['display'] = 'block';
+                offlineStoreInputForm.style['display'] = 'none';
+                note1.style['display'] = 'block';
+                setCSSForFeedbackForm();
+            });
+
+            function handleInput(element, alert) {
+                if (element.hasClass('a-form-error')) {
+                    alert.style['display'] = 'none';
+                    element.removeClass('a-form-error').addClass('a-form-normal');
+                    element.removeAttr("aria-invalid");
+                    element.removeAttr("aria-describedby");
+                }
+            }
+
+            $('#onlineUrl').change(function () {
+                var urlAlert = document.querySelector('#onlineUrl-missing-alert');
+                handleInput($(this), urlAlert);
+            });
+
+            $('#onlinePriceRaw').change(function () {
+                var priceAlertOnline = document.querySelector('#onlinePrice-missing-alert');
+                handleInput($(this), priceAlertOnline);
+            });
+            $('#onlineShippingRaw').change(function () {
+                var priceShippingAlertOnline = document.querySelector('#onlineShippingPrice-missing-alert');
+                handleInput($(this), priceShippingAlertOnline);
+            });
+            $('#offlineCity').change(function () {
+                var cityAlert = document.querySelector('#offlineCity-missing-alert');
+                handleInput($(this), cityAlert);
+            });
+
+            $('#offlineStoreName').change(function () {
+                var storeAlert = document.querySelector('#offlineStoreName-missing-alert');
+                handleInput($(this), storeAlert);
+            });
+
+            $('#offlinePriceRaw').change(function () {
+                var priceAlertOffline = document.querySelector('#offlinePriceRaw-missing-alert');
+                handleInput($(this), priceAlertOffline);
+            });
+
+            $("#pricingFeedback_offlineRadio").click(function () {
+                onlineStoreInputForm.style['display'] = 'none';
+                offlineStoreInputForm.style['display'] = 'block';
+                note1.style['display'] = 'block';
+                setCSSForFeedbackForm();
+            });
+
+            if (!offlineStoresEnabled) {
+                offlineRadioContainer.style['display'] = 'none';
+                offlineStoreInputForm.style['display'] = 'none';
+            }
+
+            $("#pfw_submit").click(function () {
+                var feedbackSubmitted = submitFeedback(
+                    customerId,
+                    marketplaceId,
+                    asin,
+                    productPrice,
+                    onlineStoreInputForm,
+                    offlineStoreInputForm,
+                    onlineUrl.value,
+                    onlinePriceRaw.value,
+                    onlineShippingRaw.value,
+                    onlineDay.value,
+                    onlineMonth.value,
+                    offlineStoreName.value,
+                    offlineCity.value,
+                    offlineState.value,
+                    offlinePriceRaw.value,
+                    offlineDay.value,
+                    offlineMonth.value,
+                    thankYouDiv,
+                    errorDiv,
+                    submitButton,
+                    loadingGifDiv,
+                    errorMessages
+                );
+                if (feedbackSubmitted !== null && !feedbackSubmitted) {
+                    errorDiv.innerHTML = getErrorDiv(errorMessages.errorSubmission);
+                }
+            });
+
+            A.on("a:popover:beforeHide:pricingFeedback-modal-content", function (data) {
+                resetModalToInitialState(currentMonth, currentDate, currentYear);
+            });
+
+        } else {
+            feedbackFormContent.style['display'] = 'none';
+            signUpContainer.style['display'] = 'block';
+
+            var authPortalLink = getAuthenticationPageURL(asin, hostname);
+            $("#signUpForm").one("click", function () {
+                window.location = encodeURI(authPortalLink);
+            });
+        }
+
+        function setCalenderOrderBasedOnCountry(country) {
+            var monthSections = document.getElementsByClassName('monthSection');
+            var daySections = document.getElementsByClassName('daySection');
+            var yearSections = document.getElementsByClassName('yearSection');
+
+            var firstDelimiters = document.getElementsByClassName('firstDelimiter');
+            var secondDelimiters = document.getElementsByClassName('secondDelimiter');
+
+            if (country === 'US') {
+                for (let i = 0; i < 2; i++) {
+                    (monthSections[i]).style['order'] = '0';
+                    (firstDelimiters[i]).style['order'] = '1';
+                    (daySections[i]).style['order'] = '2';
+                    (secondDelimiters[i]).style['order'] = '3';
+                    (yearSections[i]).style['order'] = '4';
+                }
+            } else if (country === 'JP') {
+                for (let i = 0; i < 2; i++) {
+                    (yearSections[i]).style['order'] = '-1';
+                    (secondDelimiters[i]).style['order'] = '0';
+                    (monthSections[i]).style['order'] = '1';
+                    (firstDelimiters[i]).style['order'] = '2';
+                    (daySections[i]).style['order'] = '3';
+                }
+            } else {
+                for (let i = 0; i < 2; i++) {
+                    (daySections[i]).style['order'] = '-1';
+                    (firstDelimiters[i]).style['order'] = '0';
+                    (monthSections[i]).style['order'] = '1';
+                    (secondDelimiters[i]).style['order'] = '2';
+                    (yearSections[i]).style['order'] = '3';
+                }
+            }
+        }
+
+        function createPermalinkContainer(asin, hostname) {
+            var permalinkHref = getPermalink(hostname, asin);
+            var permalinkContainer = document.querySelector('#permalink');
+            var permalink = document.createElement('a');
+            permalink.setAttribute('href', permalinkHref);
+            permalink.innerText = permalinkHref;
+            permalinkContainer.append(permalink);
+        }
+
+        function getPermalink(server, asin) {
+            return server + '/dp/' + asin;
+        }
+
+        function triggerPricingFeedback(
+            customerId,
+            marketplaceId,
+            asin,
+            price,
+            retailerType,
+            retailerUrl,
+            retailerName,
+            retailerCity,
+            retailerState,
+            retailerPrice,
+            retailerShipping,
+            sampleDate
+        ) {
+            var dataCart = {
+                ourPrice: parseInt(price),
+                retailer: {
+                    type: retailerType,
+                    name: retailerName,
+                    city: retailerCity,
+                    state: retailerState,
+                    price: parseInt(retailerPrice),
+                    shippingCost: parseInt(retailerShipping),
+                    url: retailerUrl
+                },
+                date: sampleDate + "T00:00:00.102Z"
+            };
+            return new Promise((resolve, reject) => {
+                A.$.ajax($("#aapiEndpoint").val() + "/api/marketplaces/" + marketplaceId + "/products/" + asin + "/feedback/pricing",
+                    {
+                        type: 'POST',
+                        headers: {
+                            'Accept-Language': 'en-US',
+                            'Accept': 'application/vnd.com.amazon.api+json; type="product.feedback.pricing/v1"',
+                            'x-amzn-encrypted-slate-token': document.querySelector('meta[name="encrypted-slate-token"]')?.content,
+                            'Content-Type': 'application/vnd.com.amazon.api+json; type="product.feedback.pricing.request/v1"',
+                            'x-api-csrf-token': csrf
+                        },
+                        data: JSON.stringify(dataCart),
+                        xhrFields: {
+                            withCredentials: true
+                        },
+
+                        success: function (responseContent) {
+                            $("#pricingFeedback_thankcontent").innerText = "Success! " + responseContent.toString();
+                            resolve();
+                        },
+
+                        error: function (err) {
+                            $("#pricingFeedback_thankcontent").innerText = "Error! " + err.toString();
+                            reject();
+                        }
+                    })
+            })
+        }
+
+        function getAuthenticationPageURL(asin, hostname) {
+            return hostname + '/ap/signin?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.ns.pape=http://specs.openid.net/extensions/pape/1.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.com/dp//';
+        }
+
+        function getCurrentDay() {
+            var date = new Date();
+            return date.getDate().toString();
+        }
+
+        function getCurrentMonth() {
+            var date = new Date();
+            return (date.getMonth() + 1).toString();
+        }
+
+        function getCurrentYear() {
+            var date = new Date();
+            return date.getFullYear().toString();
+        }
+
+        function resetAlerts() {
+            const elements = [
+                { id: "#onlineUrl", alertId: "#onlineUrl-missing-alert" },
+                { id: "#onlinePriceRaw", alertId: "#onlinePrice-missing-alert" },
+                { id: "#onlineShippingRaw", alertId: "#onlineShippingPrice-missing-alert" },
+                { id: "#offlineStoreName", alertId: "#offlineStoreName-missing-alert" },
+                { id: "#offlineCity", alertId: "#offlineCity-missing-alert" },
+                { id: "#offlinePriceRaw", alertId: "#offlinePriceRaw-missing-alert" }
+            ];
+
+            for (const { id, alertId } of elements) {
+                const element = document.querySelector(id);
+                const alertElement = document.querySelector(alertId);
+
+                if (element && alertElement) {
+                    element.classList.remove('a-form-error', 'a-form-normal');
+                    alertElement.style.display = 'none';
+                }
+            }
+        }
+
+        function setInitialStates(onlineMonth, currentMonth, offlineMonth, onlineDay, currentDate, offlineDay,
+                                  onlineYear, currentYear, offlineYear, onlineStoreInputForm, offlineStoreInputForm, enableOfflineStoreRadio,
+                                  enableOnlineStoreRadio, onlineCalendar, offlineCalendar, offlineStateMain, offlineState, note1) {
+            onlineMonth.defaultValue = currentMonth;
+            offlineMonth.defaultValue = currentMonth;
+            onlineDay.defaultValue = currentDate;
+            offlineDay.defaultValue = currentDate;
+            onlineYear.defaultValue = currentYear;
+            offlineYear.defaultValue = currentYear;
+
+            var isStateRequired = document.querySelector('#isStateRequired');
+
+            var stateLabel = document.querySelector('#stateLabel')
+            var stateValue = document.querySelector('#stateValue')
+            var isStoreRequired = document.querySelector('#isStoreRequired');
+
+            var storeLabel = document.querySelector('#storeLabel')
+            var storeValue = document.querySelector('#storeValue')
+
+            if (isStateRequired.value === 'false') {
+                stateLabel.style['display'] = 'none';
+                stateValue.style['display'] = 'none';
+            }
+            if (isStoreRequired.value === 'false') {
+                storeLabel.style['display'] = 'none';
+                storeValue.style['display'] = 'none';
+            }
+
+            note1.style['display'] = 'none';
+
+            resetAlerts();
+
+            var onlineMonthOption = document.querySelector('#onlineMonthOptionDefault');
+            onlineMonthOption.innerText = currentMonth;
+
+            var onlineMonthPrompt = document.querySelector('#onlineMonthPrompt');
+            onlineMonthPrompt.innerText = currentMonth;
+
+            var offlineMonthOption = document.querySelector('#offlineMonthOptionDefault');
+            offlineMonthOption.innerText = currentMonth;
+
+            var offlineMonthPrompt = document.querySelector('#offlineMonthPrompt');
+            offlineMonthPrompt.innerText = currentMonth;
+
+            var onlineDateOption = document.querySelector('#onlineDateOptionDefault');
+            onlineDateOption.innerText = currentDate;
+
+            var onlineDayPrompt = document.querySelector('#onlineDatePrompt');
+            onlineDayPrompt.innerText = currentDate;
+
+            var offlineDateOption = document.querySelector('#offlineDateOptionDefault');
+            offlineDateOption.innerText = currentDate;
+
+            var offlineDayPrompt = document.querySelector('#offlineDatePrompt');
+            offlineDayPrompt.innerText = currentDate;
+
+            var onlineYearOption = document.querySelector('#onlineYearOptionDefault');
+            onlineYearOption.setAttribute('href', currentYear);
+            onlineYearOption.innerText = currentYear;
+
+            var onlineYearPrompt = document.querySelector('#onlineYearPrompt');
+            onlineYearPrompt.innerText = currentYear;
+
+            var offlineYearOption = document.querySelector('#offlineYearOptionDefault');
+            offlineYearOption.setAttribute('href', currentYear);
+            offlineYearOption.innerText = currentYear;
+
+            var offlineYearPrompt = document.querySelector('#offlineYearPrompt');
+            offlineYearPrompt.innerText = currentYear;
+
+            if (onlineMonth.children && offlineMonth.children && onlineDay.children && offlineDay.children) {
+                onlineMonth.children[currentMonth].setAttribute('selected', currentMonth);
+                offlineMonth.children[currentMonth].setAttribute('selected', currentMonth);
+                onlineDay.children[currentDate].setAttribute('selected', currentDate);
+                offlineDay.children[currentDate].setAttribute('selected', currentDate);
+            }
+
+            onlineStoreInputForm.style['display'] = 'none';
+            offlineStoreInputForm.style['display'] = 'none';
+
+            enableOfflineStoreRadio.checked = false;
+            enableOnlineStoreRadio.checked = false;
+
+            if (onlineCalendar.style && offlineCalendar.style) {
+                onlineCalendar.style['display'] = 'block';
+                offlineCalendar.style['display'] = 'block';
+            }
+        }
+
+        function submitFeedback(
+            customerId,
+            marketplaceId,
+            asin,
+            price,
+            onlineStoreInputForm,
+            offlineStoreInputForm,
+            onlineUrl,
+            onlinePriceRaw,
+            onlineShippingRaw,
+            onlineDay,
+            onlineMonth,
+            offlineStoreName,
+            offlineCity,
+            offlineState,
+            offlinePriceRaw,
+            offlineDay,
+            offlineMonth,
+            thankYouDiv,
+            errorDiv,
+            submitButton,
+            loadingGifDiv,
+            errorMessages
+        ) {
+            errorDiv.innerHTML = '';
+
+            let cleanRetailerType,
+                cleanRetailerUrl,
+                cleanRetailerName,
+                cleanRetailerCity,
+                cleanRetailerState,
+                cleanRetailerPrice,
+                cleanRetailerShipping,
+                cleanSampleDate;
+            var currentYear = getCurrentYear();
+            if (onlineStoreInputForm.style['display'] === 'block') {
+                var onlineValidity = validateOnlineInputs(onlineUrl, onlinePriceRaw, onlineShippingRaw, errorMessages);
+                if (onlineValidity.valid) {
+                    cleanRetailerType = 'ONLINE';
+                    cleanRetailerUrl = truncate(trim(onlineUrl), 300);
+                    cleanRetailerPrice = trim(onlinePriceRaw);
+                    cleanRetailerShipping = trim(onlineShippingRaw);
+                    if (!cleanRetailerShipping) {
+                        cleanRetailerShipping = '0';
+                    }
+                    cleanSampleDate = formatDate(
+                        currentYear,
+                        onlineDay ? onlineDay : getCurrentDay(),
+                        onlineMonth ? onlineMonth : getCurrentMonth()
+                    );
+                } else {
+                    if (onlineValidity.error) {
+                        errorDiv.innerHTML = getErrorDiv(onlineValidity.error);
+                    }
+                    return null;
+                }
+            } else if (offlineStoreInputForm.style['display'] === 'block') {
+                var offlineValidity = validateOfflineInputs(
+                    offlineStoreName,
+                    offlineCity,
+                    offlineState,
+                    offlinePriceRaw,
+                    errorMessages,
+                    marketplaceId
+                );
+                if (offlineValidity.valid) {
+                    cleanRetailerType = 'OFFLINE';
+                    cleanRetailerName = truncate(trim(offlineStoreName), 100);
+                    cleanRetailerCity = truncate(trim(offlineCity), 100);
+                    cleanRetailerState = truncate(trim(offlineState), 100);
+                    cleanRetailerPrice = trim(offlinePriceRaw);
+                    cleanRetailerShipping = '0';
+                    cleanSampleDate = formatDate(
+                        currentYear,
+                        offlineDay ? offlineDay : getCurrentDay(),
+                        offlineMonth ? offlineMonth : getCurrentMonth()
+                    );
+                } else {
+                    if (offlineValidity.error) {
+                        errorDiv.innerHTML = getErrorDiv(offlineValidity.error);
+                    }
+                    return null;
+                }
+            } else {
+                errorDiv.innerHTML = getErrorDiv(errorMessages.errorNoRetailerType);
+                return null;
+            }
+
+            loadingGifDiv.innerHTML = getLoadingGifDiv();
+
+            if (price) price = parseFloat(price);
+            return triggerPricingFeedback(
+                customerId,
+                marketplaceId,
+                asin,
+                price,
+                cleanRetailerType,
+                cleanRetailerUrl,
+                cleanRetailerName,
+                cleanRetailerCity,
+                cleanRetailerState,
+                parseFloat(cleanRetailerPrice),
+                parseFloat(cleanRetailerShipping),
+                cleanSampleDate
+            )
+                .then(response => {
+                    errorDiv.innerHTML = '';
+                    thankYouDiv.innerHTML = getThankYouDiv(errorMessages.thankFeedback);
+
+                    submitButton.style.display = 'none';
+                    return response;
+                })
+                .catch(err => {
+                    errorDiv.innerHTML = getErrorDiv(errorMessages.errorSubmission);
+                    return null;
+                });
+        }
+
+        function showError(element, elementAlert) {
+            elementAlert.style['display'] = 'block';
+            element.classList.add('a-form-error');
+        }
+
+        function isUrlPresentAndValid(url) {
+            const onlineUrlElement = document.querySelector('#onlineUrl');
+            const onlineUrlAlertDiv = document.querySelector('#onlineUrl-missing-alert');
+            const urlAlert = document.querySelector('#urlAlert');
+
+            if (isEmptyValue(url)) {
+                showError(onlineUrlElement, onlineUrlAlertDiv);
+                $('#onlineUrl').attr("aria-invalid", "true");
+                $('#onlineUrl').attr("aria-describedby", "onlineUrl-missing-alert");
+                urlAlert.innerHTML = "Enter url";$('#onlineUrl').attr("aria-invalid", "true");
+
+                return false;
+            }
+            if (!isValidUrl(url)) {
+                showError(onlineUrlElement, onlineUrlAlertDiv);
+                $('#onlineUrl').attr("aria-invalid", "true");
+                $('#onlineUrl').attr("aria-describedby", "onlineUrl-missing-alert");
+                urlAlert.innerHTML = "Please enter a valid URL.";
+                return false;
+            }
+
+            return true;
+        }
+
+        function isOnlinePriceThere(price) {
+            const onlinePriceElement = document.querySelector('#onlinePriceRaw');
+            const onlinePriceElementAlert = document.querySelector('#onlinePrice-missing-alert');
+            const priceAlertOnline = document.querySelector('#priceAlertOnline');
+            if (isEmptyValue(price) || !isNumericPrice(price)) {
+                $('#onlinePriceRaw').attr("aria-invalid", "true");
+                showError(onlinePriceElement, onlinePriceElementAlert);
+                $('#onlinePriceRaw').attr("aria-describedby", "onlinePrice-missing-alert");
+                priceAlertOnline.innerHTML="Please only use numbers in the Price field.";
+                return false;
+            }
+            return true;
+        }
+
+        function isOnlineShippingPriceValid(shippingPrice) {
+            const onlineShippingPriceElement = document.querySelector('#onlineShippingRaw');
+            const onlineShippingPriceElementAlert = document.querySelector('#onlineShippingPrice-missing-alert');
+            const priceShippingAlertOnline=document.querySelector('#priceShippingAlertOnline');
+            if (!isEmptyValue(shippingPrice) && !isNumericPrice(shippingPrice)) {
+                $('#onlineShippingRaw').attr("aria-invalid", "true");
+                showError(onlineShippingPriceElement, onlineShippingPriceElementAlert);
+                $('#onlineShippingRaw').attr("aria-describedby", "onlineShippingPrice-missing-alert");
+                priceShippingAlertOnline.innerHTML = "Please only use numbers in the Price and Shipping fields.";
+                return false;
+            }
+
+            return true;
+        }
+
+        function validateOnlineInputs(url, onlinePrice, onlineShipping, errorMessages) {
+            const isValidUrl = isUrlPresentAndValid(url);
+            const isPriceValid = isOnlinePriceThere(onlinePrice);
+            const isShippingValid = isOnlineShippingPriceValid(onlineShipping);
+
+            if (!isValidUrl || !isPriceValid || !isShippingValid) {
+                return { valid: false };
+            }
+
+            return { valid: true };
+        }
+
+        function isOfflineStoreNameValid(offlineStoreName) {
+            const offlineStoreElement = document.querySelector('#offlineStoreName');
+            const offlineStoreElementAlert = document.querySelector('#offlineStoreName-missing-alert');
+            const storeAlert=document.querySelector('#storeAlert');
+            if (isEmptyValue(offlineStoreName)) {
+                $('#offlineStoreName').attr("aria-invalid", "true");
+                $('#offlineStoreName').attr("aria-describedby", "offlineStoreName-missing-alert");
+                showError(offlineStoreElement, offlineStoreElementAlert);
+                storeAlert.innerHTML="Please select where the product was sold.";
+                return false;
+            }
+
+            return true;
+        }
+
+        function isOfflineCityNameValid(offlineCity) {
+            const offlineCityElement = document.querySelector('#offlineCity');
+            const offlineCityElementAlert = document.querySelector('#offlineCity-missing-alert');
+            const cityAlert=document.querySelector('#cityAlert');
+            if (isEmptyValue(offlineCity)) {
+                $('#offlineCity').attr("aria-invalid", "true");
+                $('#offlineCity').attr("aria-describedby", "offlineCity-missing-alert");
+                showError(offlineCityElement, offlineCityElementAlert);
+                cityAlert.innerHTML="Please specify the city"
+
+                return false;
+            }
+
+            return true;
+        }
+
+        function isOfflinePriceValid(offlinePrice) {
+            const offlinePriceElement = document.querySelector('#offlinePriceRaw');
+            const offlinePriceElementAlert = document.querySelector('#offlinePriceRaw-missing-alert');
+            const priceAlertOffline = document.querySelector('#priceAlertOffline');
+
+            if (isEmptyValue(offlinePrice) || !isNumericPrice(offlinePrice)) {
+                $('#offlinePriceRaw').attr("aria-invalid", "true");
+                $('#offlinePriceRaw').attr("aria-describedby", "offlinePriceRaw-missing-alert");
+                showError(offlinePriceElement, offlinePriceElementAlert);
+                priceAlertOffline.innerHTML="Please only use numbers in the Price field.";
+                return false;
+            }
+            return true;
+        }
+
+        function validateOfflineInputs(offlineStoreName, offlineCity, offlineState, offlinePrice, errorMessages, marketPlaceId) {
+
+            const isStoreNameValid = isOfflineStoreNameValid(offlineStoreName);
+            const isOfflineCityValid = isOfflineCityNameValid(offlineCity);
+            const isPriceValid = isOfflinePriceValid(offlinePrice);
+            if (!isStoreNameValid || !isOfflineCityValid || !isPriceValid) {
+                return { valid: false };
+            }
+
+            return { valid: true };
+        }
+
+        function getErrorDiv(errorMsg) {
+            return (
+                '<div class="a-box a-alert a-alert-error a-spacing-mini" aria-live="assertive" role="alert">\n' +
+                '              <div class="a-box-inner a-alert-container"><i class="a-icon a-icon-alert"></i><div class="a-alert-content">' +
+                errorMsg +
+                '</div></div>\n' +
+                '          </div>'
+            );
+        }
+
+        function getThankYouDiv(thankMsg) {
+            return (
+                '<div class="a-box a-alert a-alert-success a-spacing-mini">' +
+                '<div class="a-box-inner a-alert-container"><i class="a-icon a-icon-alert"></i><div class="a-alert-content">' +
+                thankMsg +
+                '</div></div></div>\n' +
+                '<p></p><hr/><p></p>'
+            );
+        }
+
+        function getLoadingGifDiv() {
+            return '<img src="https://images-na.ssl-images-amazon.com/images/G/01/x-locale/communities/tags/snake._CB485935600_.gif" class="loadingSymbolImage" width="16" height="16" border="0"/>';
+        }
+
+        function isValidUrl(url) {
+            if (!url) {
+                return false;
+            }
+            var encodedUrl = encodeURI(url);
+            return encodedUrl.match(
+                /^(https?:\/\/)?(([a-z0-9-]|%[A-F0-9]{2})+\.)+(([a-z]|%[A-F0-9]{2})([a-z0-9]|%[A-F0-9]{2})*)(:[0-9]+)?(\/[a-z0-9;:,~!+#@&=%\/$\.?_-]+)?$/
+            );
+        }
+
+        function isNumericPrice(price) {
+            if (!price) {
+                return false;
+            }
+            return price.match(/^([0-9]+\.?[0-9]*)$|^([0-9]*\.[0-9]+)$/);
+        }
+
+        function isEmptyValue(input) {
+            return !input || input.length === 0 || input.match(/^\s*$/);
+        }
+
+        function truncate(input, length) {
+            if (!input) {
+                return '';
+            } else {
+                return input.substr(0, length);
+            }
+        }
+
+        function formatDate(year, date, month) {
+            return year + '-' + month + '-' + date;
+        }
+
+        function trim(input) {
+            if (!input) {
+                return '';
+            } else {
+                return input.trim();
+            }
+        }
+
+        function resetModalToInitialState(currentMonth, currentDate, currentYear) {
+            var enableOnlineStoreRadio = document.querySelector('#pricingFeedback_onlineRadio');
+            var enableOfflineStoreRadio = document.querySelector('#pricingFeedback_offlineRadio');
+            var onlineStoreInputForm = document.querySelector('#pricingFeedback_onlineInput');
+            var offlineStoreInputForm = document.querySelector('#pricingFeedback_offlineInput');
+            var onlineUrl = document.querySelector('#onlineUrl');
+            var onlinePriceRaw = document.querySelector('#onlinePriceRaw');
+            var onlineShippingRaw = document.querySelector('#onlineShippingRaw');
+            var onlineDay = document.querySelector('#onlineDay');
+            var onlineMonth = document.querySelector('#onlineMonth');
+            var onlineYear = document.querySelector('#onlineYear');
+            var onlineCalendar = document.querySelector('#onlineCalendar');
+            var note1 = document.querySelector('#note1');
+
+            var offlineStoreName = document.querySelector('#offlineStoreName');
+            var offlineCity = document.querySelector('#offlineCity');
+            var offlineState = document.querySelector('#offlineState');
+            var offlinePriceRaw = document.querySelector('#offlinePriceRaw');
+            var offlineDay = document.querySelector('#offlineDay');
+            var offlineMonth = document.querySelector('#offlineMonth');
+            var offlineYear = document.querySelector('#offlineYear');
+            var offlineCalendar = document.querySelector('#offlineCalendar');
+
+            var thankYouDiv = document.querySelector('#pricingFeedback_thank');
+            var errorDiv = document.querySelector('#pricingFeedback_error');
+            var submitButton = document.querySelector('#pricingFeedback_submit');
+            var loadingGifDiv = document.querySelector('#loading');
+
+            var stateDefaultOption = document.querySelector('#stateDefaultOption');
+            var stateDefaultPrompt = document.querySelector('#stateDefaultPrompt');
+            var offlineStateMain = document.querySelector('#offlineStateMain');
+            var storeDefaultOption = document.querySelector('#storeDefaultOption');
+            var storeDefaultPrompt = document.querySelector('#storeDefaultPrompt');
+            if (thankYouDiv) {
+                thankYouDiv.innerHTML = '';
+            }
+            if (errorDiv) {
+                errorDiv.innerHTML = '';
+            }
+            if (loadingGifDiv) {
+                loadingGifDiv.innerHTML = '';
+            }
+            if (submitButton) {
+                submitButton.style.display = 'block';
+            }
+            onlineUrl.value = '';
+            onlinePriceRaw.value = '';
+            onlineShippingRaw.value = '';
+            offlineStoreName.value = '';
+            offlineCity.value = '';
+            offlineState.value = '';
+            offlinePriceRaw.value = '';
+
+            stateDefaultOption.innerHTML = $("#selectProvince").val();
+            stateDefaultPrompt.innerHTML = $("#selectProvince").val();
+
+            storeDefaultOption.innerHTML = "Enter the store name where you found this product";
+            storeDefaultPrompt.innerHTML = "Enter the store name where you found this product";
+
+            setInitialStates(
+                onlineMonth,
+                currentMonth,
+                offlineMonth,
+                onlineDay,
+                currentDate,
+                offlineDay,
+                onlineYear,
+                currentYear,
+                offlineYear,
+                onlineStoreInputForm,
+                offlineStoreInputForm,
+                enableOfflineStoreRadio,
+                enableOnlineStoreRadio,
+                onlineCalendar,
+                offlineCalendar,
+                offlineStateMain,
+                offlineState,
+                note1
+            );
+        }
+
+    });
+</script> </div><table id="productDetails_feedback_sections" class="a-keyvalue prodDetTable" role="presentation">   </table>    </div> </div>   </div>  </div> <div class="a-column a-span6 a-span-last">  <div class="a-row a-spacing-medium-plus">           <div id="productDetails_expanderTables_depthRightSections" class="a-section">   <div data-csa-c-content-id="voyager-expander-btn-t2" data-csa-c-slot-id="voyager-expander-btn-t2" data-csa-c-type="button" class="a-row a-expander-container a-expander-section-container a-section-expander-container" data-csa-c-id="nk834a-hdzg5l-9k2zyo-fza43w">    <span class="a-declarative" data-action="voyager-expander-heading-toggle" data-csa-c-type="widget" data-csa-c-func-deps="aui-da-voyager-expander-heading-toggle" data-voyager-expander-heading-toggle="{&quot;sectionIndex&quot;:0,&quot;columnName&quot;:&quot;depthRightSections&quot;}" data-csa-c-id="6ubtvd-50tq55-ap3zoa-2xhf2d"> <a data-csa-c-func-deps="aui-da-a-expander-toggle" data-csa-c-type="widget" data-csa-interaction-events="click" aria-expanded="true" role="button" href="javascript:void(0)" data-action="a-expander-toggle" class="a-expander-header a-declarative a-expander-section-header prodDet-expander-header-styling a-color-offset-background a-link-section-expander a-size-medium" data-a-expander-toggle="{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;&quot;, &quot;collapse_prompt&quot;:&quot;&quot;}" data-csa-c-id="z97a93-czgx4o-thrwja-qjmp57"><i class="a-icon a-icon-section-collapse"></i><span class="a-expander-prompt"> Item details </span></a> </span> <div data-expanded="true" class="a-expander-content a-expander-extend-content a-expander-content-expanded" style="overflow: hidden;"> <div class="a-section">          <table class="a-keyvalue prodDetTable" role="presentation">           <tbody><tr>   <th class="a-color-secondary a-size-base prodDetSectionEntry">Customer Reviews</th>  <td class="a-size-base">                             <div id="averageCustomerReviews" data-asin="B07KNYN7F4" data-ref="dpx_acr_pop_">
+                           <span class="a-declarative" data-action="acrStarsLink-click-metrics" data-csa-c-type="widget" data-csa-c-func-deps="aui-da-acrStarsLink-click-metrics" data-acrstarslink-click-metrics="{}" data-csa-c-id="6rx19g-oaj6jj-xfm8a6-p4n3e2">         <span id="acrPopover" class="reviewCountTextLinkedHistogram noUnderline" title="4.5 out of 5 stars">
+        <span class="a-declarative" data-action="a-popover" data-csa-c-type="widget" data-csa-c-func-deps="aui-da-a-popover" data-a-popover="{&quot;max-width&quot;:&quot;700&quot;,&quot;closeButton&quot;:&quot;true&quot;,&quot;position&quot;:&quot;triggerBottom&quot;,&quot;popoverLabel&quot;:&quot;Customer Reviews Ratings Summary&quot;,&quot;url&quot;:&quot;/gp/customer-reviews/widgets/average-customer-review/popover/ref=dpx_acr_pop_?contextId=dpx&amp;asin=B07KNYN7F4&quot;}" data-csa-c-id="tthevm-87jql4-lkopdi-2xnqgn"> <a href="javascript:void(0)" role="button" class="a-popover-trigger a-declarative">    <span class="a-size-base a-color-base"> 4.5 </span>            <i class="a-icon a-icon-star a-star-4-5 cm-cr-review-stars-spacing-big"><span class="a-icon-alt">4.5 out of 5 stars</span></i>   <i class="a-icon a-icon-popover"></i></a> </span>   <span class="a-letter-space"></span>  </span>
+
+       </span> <span class="a-letter-space"></span>             <span class="a-declarative" data-action="acrLink-click-metrics" data-csa-c-type="widget" data-csa-c-func-deps="aui-da-acrLink-click-metrics" data-acrlink-click-metrics="{}" data-csa-c-id="irt7uf-s50riy-pm9dx2-lpgh3o"> <a id="acrCustomerReviewLink" class="a-link-normal" href="#customerReviews">    <span id="acrCustomerReviewText" class="a-size-base">8,616 ratings</span>   </a> </span> <script type="text/javascript">
+                    
+                    var dpAcrHasRegisteredArcLinkClickAction;
+                    P.when('A', 'ready').execute(function(A) {
+                        if (dpAcrHasRegisteredArcLinkClickAction !== true) {
+                            dpAcrHasRegisteredArcLinkClickAction = true;
+                            A.declarative(
+                                'acrLink-click-metrics', 'click',
+                                { "allowLinkDefault": true },
+                                function (event) {
+                                    if (window.ue) {
+                                        ue.count("acrLinkClickCount", (ue.count("acrLinkClickCount") || 0) + 1);
+                                    }
+                                }
+                            );
+                        }
+                    });
+                </script>
+                 <script type="text/javascript">
+            P.when('A', 'cf').execute(function(A) {
+                A.declarative('acrStarsLink-click-metrics', 'click', { "allowLinkDefault" : true },  function(event){
+                    if(window.ue) {
+                        ue.count("acrStarsLinkWithPopoverClickCount", (ue.count("acrStarsLinkWithPopoverClickCount") || 0) + 1);
+                    }
+                });
+            });
+        </script>
+
+           </div>
+      <br> 4.5 out of 5 stars </td> </tr>             <tr>   <th class="a-color-secondary a-size-base prodDetSectionEntry"> ASIN </th>  <td class="a-size-base prodDetAttrValue"> B07KNYN7F4 </td> </tr>             <tr> <th class="a-color-secondary a-size-base prodDetSectionEntry"> Best Sellers Rank </th> <td> <span>  <span>#1,302 in Grocery &amp; Gourmet Food (<a href="/gp/bestsellers/grocery/ref=pd_zg_ts_grocery">See Top 100 in Grocery &amp; Gourmet Food</a>)</span> <br>  <span>#1 in <a href="/gp/bestsellers/grocery/6492285011/ref=pd_zg_hrsr_grocery">Active Dry Yeasts</a></span> <br>  </span> </td> </tr>             <tr>   <th class="a-color-secondary a-size-base prodDetSectionEntry"> Manufacturer </th>  <td class="a-size-base prodDetAttrValue"> Kate Naturals </td> </tr>          <tr>   <th class="a-color-secondary a-size-base prodDetSectionEntry"> UPC </th>  <td class="a-size-base prodDetAttrValue"> 810002441523 </td> </tr>          <tr>   <th class="a-color-secondary a-size-base prodDetSectionEntry"> Brand Name </th>  <td class="a-size-base prodDetAttrValue"> Kate Naturals </td> </tr>          <tr>   <th class="a-color-secondary a-size-base prodDetSectionEntry"> Target Species </th>  <td class="a-size-base prodDetAttrValue"> Duck </td> </tr>     </tbody></table>     </div> </div>    </div>  </div>  </div>   </div> </div> </div>          </div>

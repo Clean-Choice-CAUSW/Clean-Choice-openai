@@ -1,0 +1,42 @@
+{
+    "name": "제품명",
+    "brandName": "제조사명",
+    "madeInCountry": "제조국",
+    "englishNetContent": "영어 제품총량",
+    "koreanNetContent": "한글 제품총량",
+    "servingSize": "1회 제공량",
+    "englishProductType": "영어 제품유형",
+    "koreanProductType": "한글 제품유형",
+    "englishSupplementForm": "영어 제품섭취형태",
+    "koreanSupplementForm": "한글 제품섭취형태",
+    "englishSuggestedUse": "영어 섭취방법",
+    "koreanSuggestedUse": "한글 섭취방법",
+    "englishOtherIngredients": "영어 주성분 외 기타 성분",
+    "koreanOtherIngredients": "한글 주성분 외 기타 성분",
+    "imageUrl": "상품 메인이미지 url",
+    "price": 10000,
+    "priceUnit": "상품 가격 단위",
+    "productIngredientJoinLLMResponseDtoList": [
+        {
+            "englishCategory": "영어 성분 카테고리",
+            "koreanCategory": "한글 성분 카테고리",
+            "englishName": "영어 주성분명",
+            "koreanName": "한글 주성분명",
+            "effectiveness": "제품 효능",
+            "caution": "성북 섭취 시 주의사항",
+            "servingSize": "1회 제공량",
+            "servingUnit": "제공량 단위",
+            "amountPerServing": "복용 당 성분 섭취량",
+            "amountPerServingUnit": "복용 당 성분 섭취량 단위",
+            "dailyValuePerServing": "일일 권장 섭취량 대비 비율(%)",
+            "englishDailyValueTargetGroup": "영어 일일 권장 섭취 대상",
+            "koreanDailyValueTargetGroup": "한글 일일 권장 섭취 대상"
+        }
+    ],
+    "productLabelStatementLLMResponseDtoList": [
+        {
+            "englishLabelStatement": "영어 라벨문구",
+            "koreanLabelStatement": "한글 라벨문구"
+        }
+    ]
+}
