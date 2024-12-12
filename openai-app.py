@@ -30,8 +30,11 @@ def call_openai_api(model, messages, temperature=0.7):
         raise Exception(f"OpenAI API call failed: {response.text}")
     return response.json()
 
-def build_user_message(message):
+def build_system_message(message):
     return {"role": "system", "content": message}
+
+def build_user_message(message):
+    return {"role": "user", "content": message}
 
 # Endpoint for genCompletion
 @app.route("/gen-completion", methods=["POST"])
@@ -96,35 +99,52 @@ def get_advice():
     age = request_data.get("age")
     gender = request_data.get("gender")
     is_pregnant = request_data.get("isPregnant", False)
-    intake_ingredients = request_data.get("intakeIngredientList", [])
+    intakeIngredientListString = request_data.get("intakeIngredientListString")
+    selectIngredientListString = request_data.get("selectIngredientListString")
     question = request_data.get("question", "")
 
     # Build the question string
-    question_builder = f"저는 {age}살이고, 성별은 {gender}고 "
+    question_builder = f"난 {age}살이고, 성별은 {gender}고 "
     if is_pregnant:
-        question_builder += "임신 중이고 "
-    question_builder += "다음 성분을 섭취했어요\n"
+        question_builder += "임신 중이야."
+    
+    intakeIngredientFlag = False
+    if intakeIngredientListString != "":
+        question_builder += "그리고 다음 건강기능식품 성분을 섭취 중이야\n"
+        question_builder += intakeIngredientListString
+        intakeIngredientFlag = True
 
-    for ingredient in intake_ingredients:
-        fake_name = ingredient.get("fakeName")
-        if fake_name:
-            question_builder += f"{fake_name} {ingredient.get('amount')} {ingredient.get('unit')}\n"
+    selectIngredientFlag = False
+    if selectIngredientListString != "":
+        question_builder += "그리고 내가 지금 구매하려고 고민 중인 제품의 성분은 다음과 같아\n"
+        question_builder += selectIngredientListString
+        
+        if intakeIngredientFlag:
+            question_builder += "\n내가 지금 섭취 중인 성분 토대로 구매하려는 성분에 대한 병용 시 주의사항 및 조언 알려줘\n"
         else:
-            ingredient_data = ingredient.get("ingredient", {})
-            name = ingredient_data.get("koreanName") or ingredient_data.get("englishName")
-            question_builder += f"{name} {ingredient.get('amount')} {ingredient.get('unit')}\n"
+            question_builder += "\n내가 지금 섭취 중인 성분이 없어서, 구매하려는 성분에 대한 병용 시 주의사항 및 조언 알려줘\n"
+        
+        selectIngredientFlag = True
 
-    if not question:
-        question_builder += "제 정보를 기반으로 주의 사항 및 조언을 알려주세요"
+    question_builder += "내 정보를 기반으로 건강기능식품 선택 시 주의사항 및 조언"
+    if intakeIngredientFlag and not selectIngredientFlag:
+        question_builder += ", 그리고 내가 지금 복용하고 있는 성분에 대한 주의사항 및 조언을 알려줘"
     else:
-        question_builder += f"그리고 제 질문은 {question}"
+        question_builder += "을 알려줘"
+
+    if question:
+        question_builder += f"마지막으로 질문이 있는데 따로 답변해줘\n질문: {question}"
+    print(question_builder)
 
     # Call OpenAI API
-    messages = [{"role": "user", "content": question_builder}]
+    messages = [
+        build_user_message(question_builder)
+    ]
     try:
         response = call_openai_api("gpt-4o", messages)
         content = response["choices"][0]["message"]["content"]
-        return jsonify({"result": content})
+        content = content.replace("*", "").replace("#", "")
+        return content
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
