@@ -46,6 +46,7 @@ def gen_completion():
     # Example of how to build messages
     msg_text = dto_data + "\n위 형식 예시에 맞게 아래 건강기능상품 상세 페이지 html과 사진 속에서 정보를 추출해서 json dto로 넘겨줘."
     msg_text = msg_text + " 리스트는 예시라 원소 하나만 넣은거니까 상황에 맞게 여러 개 줘도 되고, 한글 정보는 영어를 번역하고, 없는 정보면 null로 채워줘\n"
+    msg_text = msg_text + "단, effectiveness와 예시에 한글이라고 적힌 꼭 한글이어야만 해"
     msg_text = msg_text + html
     messages = [
         build_user_message(msg_text),
@@ -134,6 +135,9 @@ def get_advice():
 
     if question:
         question_builder += f"마지막으로 질문이 있는데 따로 답변해줘\n질문: {question}"
+    
+    question_builder += "\n귀엽게 이모티콘 넣어서 답변해줘. 그리고 마크다운 문법 쓰지 마."
+
     print(question_builder)
 
     # Call OpenAI API
